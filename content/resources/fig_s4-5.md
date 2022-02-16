@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-74-land-water-food-and-climate-fall-2020/610c62ace9bdbd682fe8991e72b7c3de_Fig_S4.5.jpg
+file: /media/courses/1-74-land-water-food-and-climate-fall-2020/610c62ace9bdbd682fe8991e72b7c3de_Fig_S4.5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: S4. Background Data on Food Security
+parent_type: CourseSection
 resourcetype: Image
 title: Fig_S4.5.jpg
 uid: 610c62ac-e9bd-bd68-2fe8-991e72b7c3de

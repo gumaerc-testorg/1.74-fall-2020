@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: SECTION 1 | Framing the Discussion
 uid: d0986837-4f0e-5e5a-8cad-70f86734125a
 ---

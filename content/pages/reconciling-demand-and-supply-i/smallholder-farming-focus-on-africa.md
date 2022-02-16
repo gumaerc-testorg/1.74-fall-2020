@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
+parent_type: CourseSection
 parent_uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 title: 'Class 7: Smallholder Farming: Focus on Africa'
 uid: 4152ebd3-91c9-4fbb-0405-f7544d2c9a9b

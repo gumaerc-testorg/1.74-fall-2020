@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
+parent_type: CourseSection
 parent_uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 title: S9. Soil Properties, Soil Suitability Measures, and Changes in Soil Quality
 uid: 7c50770f-1bf3-0d2c-cbd9-e99f87190be5

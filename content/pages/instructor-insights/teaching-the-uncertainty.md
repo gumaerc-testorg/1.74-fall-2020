@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 7e9dbefa-d7c0-55ec-dc1d-dbb6900543ea
 title: Teaching the Uncertainty
 uid: 93c1284a-2f23-874c-977a-debf44537cf1

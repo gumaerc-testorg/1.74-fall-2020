@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
   and Projected'
+parent_type: CourseSection
 parent_uid: 17b97c14-119d-387b-4d55-af17e0f93899
 title: 'Class 2: Demand for Food: Population, Diet, and Food Loss'
 uid: ee9afca1-1572-d691-da89-8afd529f77e5
@@ -11,7 +14,7 @@ uid: ee9afca1-1572-d691-da89-8afd529f77e5
 
 Courtesy [UN Population Division](https://population.un.org/wpp/). License: CC BY.
 
-This class discusses five readings that explore the primary factors affecting demand for food—population, diet, and food loss. One way to view the demand side of food security is to distinguish increases in population from increases in per capita demand. Cleland (2013) provides a brief review of demography and discusses likely global population growth over the next few decades. This review complements the United Nations population data provided in S1. A major message is that population in many regions will level off, and perhaps even decline during the 21st century. However, large increases can be expected in a few high growth regions such as sub-Saharan Africa. These geographical imbalances will affect food security, trade, and opportunities for economic development. Mismatches between regional demand and production are reflected in S4, which shows that global production of cereal and meat have grown faster than global population while production in East Africa has barely kept up with its rapidly growing population. This situation is especially critical since many residents of East Africa are unable to afford food imports to supplement inadequate local production.
+This class discusses five readings that explore the primary factors affecting demand for food—population, diet, and food loss. One way to view the demand side of food security is to distinguish increases in population from increases in per capita demand. Cleland (2013) provides a brief review of demography and discusses likely global population growth over the next few decades. This review complements the United Nations population data provided in S1. A major message is that population in many regions will level off, and perhaps even decline during the 21{{< sup "st" >}} century. However, large increases can be expected in a few high growth regions such as sub-Saharan Africa. These geographical imbalances will affect food security, trade, and opportunities for economic development. Mismatches between regional demand and production are reflected in S4, which shows that global production of cereal and meat have grown faster than global population while production in East Africa has barely kept up with its rapidly growing population. This situation is especially critical since many residents of East Africa are unable to afford food imports to supplement inadequate local production.
 
 Per capita demand is generally more difficult to predict than population because it depends on many influences, including nutritional requirements, income, and cultural factors. The role of nutrition is discussed by Gomez et al. (2013), who expands the traditional definition of malnutrition to include overnutrition and micronutrient deficiencies as well as undernutrition. Some of the data in S4 show the close connection between income and malnutrition.
 

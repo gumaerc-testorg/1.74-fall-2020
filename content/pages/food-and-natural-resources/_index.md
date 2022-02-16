@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current and Projected'
 uid: 17b97c14-119d-387b-4d55-af17e0f93899
 ---

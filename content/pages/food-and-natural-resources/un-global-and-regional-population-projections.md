@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
   and Projected'
+parent_type: CourseSection
 parent_uid: 17b97c14-119d-387b-4d55-af17e0f93899
 title: S1. UN Global and Regional Population Projections
 uid: d399c927-9e76-7a24-19d9-ffee9f92bfbb
@@ -46,7 +49,7 @@ The global estimates in Figure S1.1 show that the population median peaks around
 
 The remaining plots show much slower population trends for the US, China, and high-income countries (primarily Europe and North America). Note that the median value for China peaks around 2030 while the high-income median value peaks around 2045. These results indicate that population will be growing primarily in countries that are currently lower income.
 
-Figure S1.2 shows an estimated global population density map for 2000 (Salvatore et al, 2005). The spatial resolution is 30 arc seconds (1 km2 at the equator). Note the high population density in the generally water limited areas of the Middle East, East Africa, South Asia, and northern China (see the comparison to climate maps shown in S8).
+Figure S1.2 shows an estimated global population density map for 2000 (Salvatore et al, 2005). The spatial resolution is 30 arc seconds (1 km{{< sup "2" >}} at the equator). Note the high population density in the generally water limited areas of the Middle East, East Africa, South Asia, and northern China (see the comparison to climate maps shown in S8).
 
 ![A map showing population density.]({{< resource_file a76f0e9d-4d07-cd08-d373-6e7fdb8b7c60 >}})
 

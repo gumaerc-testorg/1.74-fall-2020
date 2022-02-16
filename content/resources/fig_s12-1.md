@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-74-land-water-food-and-climate-fall-2020/04430807e7f08a2a17373c888048cce7_Fig_S12.1.jpg
+file: /media/courses/1-74-land-water-food-and-climate-fall-2020/04430807e7f08a2a17373c888048cce7_Fig_S12.1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: S10. Global and Regional Farm Characteristics
+parent_type: CourseSection
 resourcetype: Image
 title: Fig_S12.1.jpg
 uid: 04430807-e7f0-8a2a-1737-3c888048cce7

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: SECTION 1 | Framing the Discussion
+parent_type: CourseSection
 parent_uid: d0986837-4f0e-5e5a-8cad-70f86734125a
 title: 'Class 1: The Food Security Debate'
 uid: f940c2c2-d72c-e998-ce78-3f0f6abec9e3

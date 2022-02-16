@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
+parent_type: CourseSection
 parent_uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 title: 'Class 8: Climate Change and Agriculture'
 uid: c1c3fc25-5f39-8470-1f4e-5b6c36ca4cd2
@@ -36,7 +39,7 @@ Morton’s (2007) paper discusses climate change impacts on smallholder and subs
 
 Deutsch et al. (2018) provide a review of possible impacts of climate change on insect pests. This example illustrates one way that climate change could modify ecosystems that are important to agriculture. The analysis depends on a particular model of the effects of temperature changes on the growth and metabolic rates of insects that threaten food crops. The conclusion is that insect-related crop losses could increase substantially (by 10%–25% per degree C of warming) in the temperate areas where most grain is produced. Since the study is based on a relatively simple model and uncertainties are substantial it serves primarily to pose a hypothesis that deserves further investigation.
 
-The readings in this class provide a just glimpse of the many connections between climate and agriculture. However, they clearly convey the view that climate change will be a key consideration in developing a strategy for achieving food security in the 21st century.
+The readings in this class provide a just glimpse of the many connections between climate and agriculture. However, they clearly convey the view that climate change will be a key consideration in developing a strategy for achieving food security in the 21{{< sup "st" >}} century.
 
 Required Readings
 -----------------

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
+parent_type: CourseSection
 parent_uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 title: 'Class 10: Trade and Optimal Resource Allocation'
 uid: 39f4fa80-dcf5-4af5-c6fa-6b09fbf9967e

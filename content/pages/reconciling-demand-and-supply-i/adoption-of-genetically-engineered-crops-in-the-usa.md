@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
+parent_type: CourseSection
 parent_uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 title: S12. Adoption of Genetically Engineered Crops in the USA
 uid: 109a33ae-1c21-675a-af3e-2a2b89c25f8b

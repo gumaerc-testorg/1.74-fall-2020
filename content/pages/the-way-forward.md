@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: SECTION 5 | The Way Forward
 uid: 88ef2585-814f-363d-ae6e-d9111360df94
 ---

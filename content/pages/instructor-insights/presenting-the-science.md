@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 7e9dbefa-d7c0-55ec-dc1d-dbb6900543ea
 title: Presenting the Science
 uid: 97fcf5b6-0388-1e31-5ab4-738dcf275739

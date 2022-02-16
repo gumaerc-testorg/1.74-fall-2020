@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-74-land-water-food-and-climate-fall-2020/3d3c7aba0d31a89dd169f974690dce88_Fig_S7.2.jpg
+file: /media/courses/1-74-land-water-food-and-climate-fall-2020/3d3c7aba0d31a89dd169f974690dce88_Fig_S7.2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: S6. The Water Cycle
+parent_type: CourseSection
 resourcetype: Image
 title: Fig_S7.2.jpg
 uid: 3d3c7aba-0d31-a89d-d169-f974690dce88

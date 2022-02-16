@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-74-land-water-food-and-climate-fall-2020/aca52a4bb60b5fbe826a6f0b037e954c_Fig_S1.4.jpg
+file: /media/courses/1-74-land-water-food-and-climate-fall-2020/aca52a4bb60b5fbe826a6f0b037e954c_Fig_S1.4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: S1. UN Global and Regional Population Projections
+parent_type: CourseSection
 resourcetype: Image
 title: Fig_S1.4.jpg
 uid: aca52a4b-b60b-5fbe-826a-6f0b037e954c

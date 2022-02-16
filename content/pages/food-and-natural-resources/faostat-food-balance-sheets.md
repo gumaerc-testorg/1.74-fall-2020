@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
   and Projected'
+parent_type: CourseSection
 parent_uid: 17b97c14-119d-387b-4d55-af17e0f93899
 title: S3. FAOSTAT Food Balance Sheets
 uid: 80a1f194-8379-a7e0-bd28-be96b3fc236d
@@ -34,9 +37,9 @@ Domestic utilization (1000 tons):
 *   Post-harvest losses
 *   Other uses
 
-The columns on the far right give the nutritional contributions of each crop in terms of per capita mass (Kg person\-1 year\-1), energy (kcal person\-1 day\-1), protein and fat (both in g person\-1 day\-1).
+The columns on the far right give the nutritional contributions of each crop in terms of per capita mass (Kg person{{< sup "\\-1" >}} year{{< sup "\\-1" >}}), energy (kcal person{{< sup "\\-1" >}} day{{< sup "\\-1" >}}), protein and fat (both in g person{{< sup "\\-1" >}} day{{< sup "\\-1" >}}).
 
-As an example, the "Grand Total" row near the top of the above chart indicates that the global average per capita energy consumed in 2013 was 2884 KCal person-1 day-1 and the global average per capita protein consumed was 81.23 g person\-1 day\-1. The "Cereals" row just below indicates that 1.029x109 tonnes of global cereal production in 2013 was consumed as human food while 0.873x109 tonnes was consumed as animal feed. Cereals provided, on average, 1292 KCal person\-1 day\-1 of energy and 31.8 g person\-1 day\-1 of protein. 
+As an example, the "Grand Total" row near the top of the above chart indicates that the global average per capita energy consumed in 2013 was 2884 KCal person-1 day-1 and the global average per capita protein consumed was 81.23 g person{{< sup "\\-1" >}} day{{< sup "\\-1" >}}. The "Cereals" row just below indicates that 1.029x10{{< sup "9" >}} tonnes of global cereal production in 2013 was consumed as human food while 0.873x10{{< sup "9" >}} tonnes was consumed as animal feed. Cereals provided, on average, 1292 KCal person{{< sup "\\-1" >}} day{{< sup "\\-1" >}} of energy and 31.8 g person{{< sup "\\-1" >}} day{{< sup "\\-1" >}} of protein. 
 
 The Food Balance entries should be interpreted as rough estimates. The data are obtained from national sources that vary greatly in quality. Also, be careful of label formatting errors in the headings on the “Food Balances (old methodology and population)” reports for years through 2013 (these have been corrected in the chart provided above).
 

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 7e9dbefa-d7c0-55ec-dc1d-dbb6900543ea
 title: Course Readings as Catalysts for Discussion
 uid: 4ece91ae-535b-357b-7231-28be98cac743

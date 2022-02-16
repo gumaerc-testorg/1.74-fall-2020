@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 4 | Reconciling Demand and Supply: Options'
+parent_type: CourseSection
 parent_uid: 85a7c276-88f8-3e13-efe6-de32c9c3a35d
 title: 'Class 11: Green Revolutions Past and Future'
 uid: 3187906a-f47f-cc4b-6842-8d931a32d49f

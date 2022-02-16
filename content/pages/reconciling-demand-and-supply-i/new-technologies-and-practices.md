@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
+parent_type: CourseSection
 parent_uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 title: 'Class 9: New Technologies and Practices: Genetic Engineering, Precision Agriculture'
 uid: cd91cf6f-3d87-1fa4-380a-e053e7ed889b

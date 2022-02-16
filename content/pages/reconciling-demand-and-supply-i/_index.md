@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'SECTION 3 | Reconciling Demand and Supply: Context'
 uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 ---
@@ -12,7 +14,7 @@ _What do we need to consider in our search for practical ways to reconcile food 
 
 The readings and supplementary information provided in Section 2 make some points that we need to consider when looking for ways to reconcile food demand and supply:
 
-*   Demand reductions alone will probably not be sufficient to meet the nutritional needs of the 21st century global population. Food production will also need to increase. The amount of increase required will depend on uncertain changes in per capita demand and population.
+*   Demand reductions alone will probably not be sufficient to meet the nutritional needs of the 21{{< sup "st" >}} century global population. Food production will also need to increase. The amount of increase required will depend on uncertain changes in per capita demand and population.
 *   At the same time, agricultural technology and management practices will need to be more sustainable than they have been, so that increases in production can be maintained over the long term.
 *   The agricultural system will need to be more resilient so it is able to respond to climate change, disease, and uncertain trade policies.
 *   Food will need to be more accessible to populations that are vulnerable to malnutrition.

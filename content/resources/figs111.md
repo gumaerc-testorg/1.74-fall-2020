@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-74-land-water-food-and-climate-fall-2020/910098163fb2af096f7a7b2906afbf1e_FigS111.jpg
+file: /media/courses/1-74-land-water-food-and-climate-fall-2020/910098163fb2af096f7a7b2906afbf1e_FigS111.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Class 2: Demand for Food: Population, Diet, and Food Loss'
+parent_type: CourseSection
 resourcetype: Image
 title: FigS111.jpg
 uid: 91009816-3fb2-af09-6f7a-7b2906afbf1e

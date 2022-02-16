@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
   and Projected'
+parent_type: CourseSection
 parent_uid: 17b97c14-119d-387b-4d55-af17e0f93899
 title: S2. FAO Food Loss Charts
 uid: 36a7b44b-38f1-0a8b-6306-dfed1c615cf0
