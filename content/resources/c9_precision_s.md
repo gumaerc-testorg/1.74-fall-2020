@@ -12,6 +12,7 @@ ocw_type: OCWImage
 parent_title: 'Class 9: New Technologies and Practices: Genetic Engineering, Precision
   Agriculture'
 parent_type: CourseSection
+parent_uid: cd91cf6f-3d87-1fa4-380a-e053e7ed889b
 resourcetype: Image
 title: C9_Precision_s.png
 uid: 3c0b8853-20c2-5872-33b9-16844cfd734f

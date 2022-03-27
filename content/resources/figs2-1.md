@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: S2. FAO Food Loss Charts
 parent_type: CourseSection
+parent_uid: 36a7b44b-38f1-0a8b-6306-dfed1c615cf0
 resourcetype: Image
 title: FigS2-1.jpg
 uid: 6f64b4f4-479a-33e4-3584-45b3286360fe

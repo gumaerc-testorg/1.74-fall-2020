@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Class 2: Demand for Food: Population, Diet, and Food Loss'
 parent_type: CourseSection
+parent_uid: ee9afca1-1572-d691-da89-8afd529f77e5
 resourcetype: Image
 title: FigS111.jpg
 uid: 91009816-3fb2-af09-6f7a-7b2906afbf1e

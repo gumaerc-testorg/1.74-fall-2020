@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teaching the Uncertainty
 parent_type: CourseSection
+parent_uid: 93c1284a-2f23-874c-977a-debf44537cf1
 resourcetype: Image
 title: GMO.jpg
 uid: 01f8b3fa-3492-7db2-c228-ca05083536db

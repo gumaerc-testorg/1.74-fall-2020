@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: S12. Adoption of Genetically Engineered Crops in the USA
 parent_type: CourseSection
+parent_uid: 109a33ae-1c21-675a-af3e-2a2b89c25f8b
 resourcetype: Image
 title: Fig_S14.1.jpg
 uid: 724bca45-969b-6f47-1f44-95e3dd8a6739

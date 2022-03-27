@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: S1. UN Global and Regional Population Projections
 parent_type: CourseSection
+parent_uid: d399c927-9e76-7a24-19d9-ffee9f92bfbb
 resourcetype: Image
 title: FigS114nn.jpg
 uid: 4ea198b1-3ef3-5f1b-a1a7-772a4a57b2bd

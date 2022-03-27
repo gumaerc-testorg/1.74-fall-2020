@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: S4. Background Data on Food Security
 parent_type: CourseSection
+parent_uid: 8da17822-01c8-a1aa-e586-9f4dbbb56401
 resourcetype: Image
 title: Fig_S4.5.jpg
 uid: 610c62ac-e9bd-bd68-2fe8-991e72b7c3de

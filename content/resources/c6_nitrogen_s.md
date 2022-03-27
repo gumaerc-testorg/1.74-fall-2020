@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Class 6: Environmental Impacts of Agriculture: Protecting Natural Resources'
 parent_type: CourseSection
+parent_uid: 0df26d4a-ca37-738a-c733-9071f083734f
 resourcetype: Image
 title: C6_Nitrogen_s.png
 uid: 77616159-066f-f47c-3a03-e02f709f54e1

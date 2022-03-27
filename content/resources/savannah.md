@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Class 4: Resources for Food Production: Land and Nutrients'
 parent_type: CourseSection
+parent_uid: 23e9791a-9ce9-4e49-5db1-f008a91a9c25
 resourcetype: Image
 title: Savannah.png
 uid: b42f4baa-fc80-2bb5-ac16-b24a3eff73bc

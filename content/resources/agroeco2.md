@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Class 12: Agroecology'
 parent_type: CourseSection
+parent_uid: f15864c8-e1d9-f1b7-8c00-28a2df10524f
 resourcetype: Image
 title: AgroEco2.png
 uid: 318d18e2-6d7e-e89c-06f6-057cc69e8895

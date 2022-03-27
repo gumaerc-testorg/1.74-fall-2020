@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Class 8: Climate Change and Agriculture'
 parent_type: CourseSection
+parent_uid: c1c3fc25-5f39-8470-1f4e-5b6c36ca4cd2
 resourcetype: Image
 title: C8_Precip2.png
 uid: 90f389e4-5bf0-b753-4700-01722e993fd1

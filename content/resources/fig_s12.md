@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'S11. World Greenhouse Gas Emissions: 2016'
 parent_type: CourseSection
+parent_uid: 386d96bd-dc34-e68b-df95-4641d6de2081
 resourcetype: Image
 title: Fig_S12.jpg
 uid: 1a283cea-7e15-1860-ba7f-1f530a735f8d

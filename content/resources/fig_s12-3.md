@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: S10. Global and Regional Farm Characteristics
 parent_type: CourseSection
+parent_uid: 746a661c-1628-56f3-67a9-69bf52c249e4
 resourcetype: Image
 title: Fig_S12.3.jpg
 uid: 39aa8a0a-c01e-1cea-ab3b-8442795a5d95
