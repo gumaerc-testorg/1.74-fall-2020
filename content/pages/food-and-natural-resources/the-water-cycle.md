@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
@@ -12,9 +13,9 @@ uid: 1be97067-a4fb-601f-6341-a348cb0f1753
 
 Figure S6.1 shows how water in its various physical forms moves on, above, and below the earth’s surface in a cycle that drives, among other things, crop production (Trenberth et al., 2007):
 
-![A graph with sun, cloud, rain, mountain, land, and ocean.]({{< resource_file 9fd7caec-31c3-27b4-3594-d5e8570974f8 >}})
+{{< resource 9fd7caec-31c3-27b4-3594-d5e8570974f8 >}}
 
-Figure S6.1 The global water cycle. Storages in 10{{< sup "3" >}} km{{< sup "3" >}}, fluxes in 10{{< sup "3" >}} km{{< sup "3" >}} yr{{< sup "\\-1" >}} (based on Trenberth et al., 2007).
+Figure S6.1 The global water cycle. Storages in 10{{< sup "3" >}} km{{< sup "3" >}}, fluxes in 10{{< sup "3" >}} km{{< sup "3" >}} yr{{< sup "\-1" >}} (based on Trenberth et al., 2007).
 
 Hydrologists tend to quantify the _water cycle_ in terms of liquid or vapor water fluxes between various compartments that are defined according to application. The above global water cycle diagram includes the following compartments (with water storage noted in 10{{< sup "3" >}} km{{< sup "3" >}}):  
             Ocean                                      1.34 10{{< sup "6" >}}  
@@ -25,7 +26,7 @@ Hydrologists tend to quantify the _water cycle_ in terms of liquid or vapor wate
             Permafrost                               2.20 10{{< sup "1" >}}  
             Atmosphere                             1.27 10{{< sup "1" >}}
 
-The primary fluxes between compartments are (with flux rate noted in 10{{< sup "3" >}} km{{< sup "3" >}}yr{{< sup "\\-1" >}}).  
+The primary fluxes between compartments are (with flux rate noted in 10{{< sup "3" >}} km{{< sup "3" >}}yr{{< sup "\-1" >}}).  
             Precipitation  
                         Land                            113  
                         Ocean                          373  
@@ -48,7 +49,7 @@ Figure S6.2 shows the part of the water cycle that describes the conversion of p
 
 Typically, blue irrigation water is used to make up part or all of the deficit that occurs when a crop’s water needs are not met by green water alone. Although green water deficits may occur for relatively short periods during the growing season, they may stress the crop sufficiently to reduce yield. Irrigation generally improves yield by providing a more reliable water supply. Rosa et al. (2020) discusses distinctions between blue and green water and defines water scarcity indices for both (Class 3).
 
-![A graph with green and blue areas.]({{< resource_file 3d3c7aba-0d31-a89d-d169-f974690dce88 >}})
+{{< resource 3d3c7aba-0d31-a89d-d169-f974690dce88 >}}
 
 Figure S6.2 Water appropriated for human uses, showing how total precipitation on land divides into green and blue fractions.  
 Based on Postel (1996), Rost (2008), and FAO (2014).

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
@@ -12,13 +13,13 @@ uid: 23e9791a-9ce9-4e49-5db1-f008a91a9c25
 
 This class considers land and nutrient resources available for agriculture, paralleling the inventory approach to water resource assessments taken in Class 3. Although remote observations taken from space have revolutionized our knowledge of land use patterns and trends, it is still difficult to distinguish specific crops, estimate crop yields, or evaluate soil fertility using remote sensing alone. Ground-based observations are needed to validate remote sensing data, which are more extensive but less accurate. Some preliminary assessments of agricultural land use are presented in the class readings and in S8.
 
-![A pie chart with 4 slices.]({{< resource_file 7b9e1e26-ccca-cfc4-8f95-cdda20f4cf5f >}})
+{{< resource 7b9e1e26-ccca-cfc4-8f95-cdda20f4cf5f >}}
 
 Lambin and Meyfroidt (2011) rely on land use estimates obtained from a variety of sources to construct global land budgets for 2000 and 2030. They indicate that current crop land and pasture together use about 40% of global ice-free land. Much of the remaining land is unsuitable for agriculture or in tropical forest regions where extensive agricultural development could be unsustainable and contribute to climate change. The Lambin and Meyfroidt analysis suggests that the additional land suitable for rural and urban needs is about 5% of currently used land. The most favorable options for land expansion are unprotected sparsely populated savannahs in South America and Africa. In some areas it may be possible to convert currently unsuitable land to agricultural uses if there is extensive investment in infrastructure and soil improvement, but these measures may not be economically feasible at current food prices. Some context is provided in S7, which briefly discusses recent cropland expansion from deforestation.
 
 Zabel et al. (2014) provide an alternative model-based approach for identifying land suitable for agriculture. They consider soil, terrain, and climate in an analysis that maps areas that can support particular food, feed, and energy crops. Their analysis indicates that only about 10% of the global land suitable for some form of agriculture is still available for cultivation. Both Lambin and Meyfroidt (2011) and Zabel et al. (2014) suggest that we have nearly used up the global supply of agriculturally suitable land, although there may be room for some cropland expansion in particular regions. It may be more efficient and environmentally acceptable to increase production by redistributing crops to make better use of currently available land and water resources (see Class 10).
 
-![A photo with crops, trees, and sky.]({{< resource_file b42f4baa-fc80-2bb5-ac16-b24a3eff73bc >}})
+{{< resource b42f4baa-fc80-2bb5-ac16-b24a3eff73bc >}}
 
 © Source unknown. All rights reserved. This content is excluded from our Creative Commons license.  
 For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).
@@ -34,7 +35,7 @@ Required Readings
 
 *   Eric F. Lambin and Patrick Meyfroidt. 2011. "[Global Land Use Change, Economic Globalization, and the Looming Land Scarcity](https://www.pnas.org/content/108/9/3465)." _Proceedings of the National Academy of Sciences_. 108, no. 9: 3465–72.
     
-    *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supporting Information (PDF)](http://www.pnas.org/content/suppl/2011/02/07/1100480108.DCSupplemental/pnas.201100480SI.pdf)
+    *   [Supporting Information (PDF)](http://www.pnas.org/content/suppl/2011/02/07/1100480108.DCSupplemental/pnas.201100480SI.pdf)
 
 ### Identification of Land Suitable for Crops
 

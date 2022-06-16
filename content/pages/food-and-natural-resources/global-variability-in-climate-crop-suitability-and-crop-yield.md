@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
@@ -17,7 +18,7 @@ Climate Classification
 
 The Köppen climate classification scheme gives a general picture of the variability of climatic conditions important for agriculture, reflecting primarily temperature and moisture. The subsequent figures give more detailed information on particular climatic variables.
 
-![A map of climate classification.]({{< resource_file fc8240b9-986c-936a-1c5d-7b6f96f0b235 >}})
+{{< resource fc8240b9-986c-936a-1c5d-7b6f96f0b235 >}}
 
 Figure S8.1 Köppen global climate classification, 1997.Source: [FAO Climate impact on agriculture program](http://www.fao.org/nr/climpag/climate/index_en.asp)
 
@@ -31,7 +32,7 @@ Precipitation
 
 Note the relatively high annual rainfall in temperate mid-latitude areas of Europe and North and South America and in much of the tropics.
 
-![A map of total annual precipitation.]({{< resource_file 7d600240-0365-dca2-4b25-56ff5ba51d98 >}})
+{{< resource 7d600240-0365-dca2-4b25-56ff5ba51d98 >}}
 
 Figure S8.2 Multi-year average annual total global precipitation.  
 Source: Leemans and Cramer (1991) and [FAO Climate impact on agriculture program](http://www.fao.org/nr/climpag/climate/index_en.asp)
@@ -43,7 +44,7 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 
 Note the high seasonal variability in the subtropics (India and China, East and West portions of sub-Saharan Africa), and parts of temperate North and South America.
 
-![A map of monthly precipitation comparison.]({{< resource_file 36a937bd-4bef-ac5b-a0d9-8a69e7ae666a >}})
+{{< resource 36a937bd-4bef-ac5b-a0d9-8a69e7ae666a >}}
 
 Figure S8.3 Multi-year average monthly total global precipitation for Dec, March, June, and September.  
 Source: Leemans and Cramer (1991) and [FAO Climate impact on agriculture program](http://www.fao.org/nr/climpag/climate/index_en.asp)
@@ -56,7 +57,7 @@ Growing Degree Days
 
 The Growing Degree Day (GDD) value is the integral over time of daily temperatures above the baseline value. Different crops have different baseline temperatures and minimum GDD requirements. The baseline temperatures used in this map are described in Licker (2010). Growing seasons are generally longer and warmer where GDD is higher.
 
-![A map of growing degree days.]({{< resource_file 269d3f65-c629-62e4-0add-7463fda98bf1 >}})
+{{< resource 269d3f65-c629-62e4-0add-7463fda98bf1 >}}
 
 Figure S8.4 Crop growing degree days for a baseline temperature of 8{{< sup "o" >}}C. Source: Licker et al. (2010)
 
@@ -68,7 +69,7 @@ Soil Moisture Availability
 
 The soil moisture index mapped here is the ratio of estimated actual (water limited) evapotranspiration to the estimated potential (not water limited) evapotranspiration averaged over the year for ca. 2010 land use. Note that more soil moisture is available in the tropics and in temperate areas in North America, Europe, and East Asia. Agricultural areas with lower soil moisture availability include India, and parts of southern Africa, Patagonia, and the southwestern US.
 
-![A map of soil moisture availability.]({{< resource_file 12a4c8ae-c171-d577-2866-7b294b488d3d >}})
+{{< resource 12a4c8ae-c171-d577-2866-7b294b488d3d >}}
 
 Figure S8.5 Multi-year average soil moisture availability. Source: Licker et al. (2010)
 
@@ -80,7 +81,7 @@ Distribution of Agricultural Land
 
 This map superimposes estimated predominantly cropland (green) and grazing land (brown) area fractions with cropland/grazing mosaic (yellow), ca 2000. The concentration of cropland in the northern hemisphere is apparent.
 
-![A map of distribution of agricultural land.]({{< resource_file 7a08118a-e5fd-3627-4b81-84a44e789913 >}})
+{{< resource 7a08118a-e5fd-3627-4b81-84a44e789913 >}}
 
 Figure S8.6 Global distribution of agricultural land, indicating primarily cropland, primarily grazing land, and a mosaic of both. Source: Adapted from Global Environment Outlook (GEO) and UN Environment Program (UNEP, 2010). Based on data from Ramankutty et al (2008)
 
@@ -93,7 +94,7 @@ In this map suitability implies that it is possible to grow at least one rainfed
 
 It is interesting to compare Zabel’s potentially suitable cropland with the cropland portion of the UNEP map. The tropical rainforests of South America, Africa, and parts of tropical Australia and Indonesia had relatively little cropland ca. 2010. Zabel classifies some of this land as low suitability. However, some of it, especially in Indonesia and Australia, is classified as sufficiently suitable to be attractive for agricultural development, at least in the short term. Such assessments should be viewed with some skepticism, considering the simplicity of the Zabel suitability analysis and the uncertainty in soils data from these regions.
 
-![A map of crop suitability.]({{< resource_file 714def70-cb6b-e0e8-e525-6d8c3389d66a >}})
+{{< resource 714def70-cb6b-e0e8-e525-6d8c3389d66a >}}
 
 Figure S8.7 Global crop suitability map. Source: Zabel et al. (2014) (see Class 4)
 
@@ -107,7 +108,7 @@ This figure from the Mueller et al. (2012) reading of Class 5 illustrates global
 
 The map shows that the major “breadbasket” regions in central North America, eastern South America, western Europe, India, and eastern China are closer to attainable values while parts of Africa, Mexico, and Asia are significantly below attainable values, indicating large yield gaps. Similar displays can be generated for other crops (Licker et al, 2010).
 
-![A map with scale bar below it.]({{< resource_file 312d26a3-be1a-90c8-a37f-4969e7b4b3b0 >}})
+{{< resource 312d26a3-be1a-90c8-a37f-4969e7b4b3b0 >}}
 
 Figure S8.8 Global map of percentage of attainable yield obtained for a weighted average of cereal crops.  
 Source: Mueller et al. (2012) (see Class 5)
@@ -118,7 +119,7 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 References:
 -----------
 
-R. Leemans and W. Cramer. 1991. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The IIASA Database for Mean Monthly Values of Temperature, Precipitation and Cloudiness on a Global Terrestrial Grid_ (PDF - 3.69MB)](https://core.ac.uk/download/pdf/33894953.pdf). Research Report RR-91-18. November 1991. International Institute of Applied Systems Analysis, Laxenburg, pp. 61.
+R. Leemans and W. Cramer. 1991. [_The IIASA Database for Mean Monthly Values of Temperature, Precipitation and Cloudiness on a Global Terrestrial Grid_ (PDF - 3.69MB)](https://core.ac.uk/download/pdf/33894953.pdf). Research Report RR-91-18. November 1991. International Institute of Applied Systems Analysis, Laxenburg, pp. 61.
 
 Rachel Licker, Matt Johnston, et al. 2010. "[Mind the Gap: How Do Climate and Agricultural Management Explain the ‘Yield Gap’of Croplands Around the World?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1466-8238.2010.00563.x)" _Global Ecology and Biogeography_, 19, no. 6: 769–782.
 

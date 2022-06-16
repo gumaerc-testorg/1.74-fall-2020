@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
@@ -13,7 +14,7 @@ Adoption of genetically engineered crops varies greatly across countries due to 
 
 This plot shows a dramatic increase in the use of two important genetic engineering technologies. In 2018 the genetically engineered US maize, soybean, and cotton crop areas were all well over 90% of the total planted area.
 
-![Five curves in different colors.]({{< resource_file 724bca45-969b-6f47-1f44-95e3dd8a6739 >}})
+{{< resource 724bca45-969b-6f47-1f44-95e3dd8a6739 >}}
 
 Figure S12.1: Trends in crop acreage devoted to genetically engineered cotton, maize, and soybeans.  
 Sources: USDA Economic Research Service (2002)

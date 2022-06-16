@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'SECTION 4 | Reconciling Demand and Supply: Options'
@@ -36,10 +37,10 @@ It should be easy for you to identify the advocates for different perspectives i
 Section 4 Class Topics
 ----------------------
 
-[Class 11: Green Revolutions Past and Future]({{< baseurl >}}/pages/reconciling-demand-and-supply-ii/green-revolutions-past-and-future)  
-[Class 12: Agroecology]({{< baseurl >}}/pages/reconciling-demand-and-supply-ii/agroecology)
+{{% resource_link 3187906a-f47f-cc4b-6842-8d931a32d49f "Class 11: Green Revolutions Past and Future" %}}  
+{{% resource_link f15864c8-e1d9-f1b7-8c00-28a2df10524f "Class 12: Agroecology" %}}
 
 Section 4 Supporting information (SI)
 -------------------------------------
 
-[S13. Comparison of Three Crop Production Systems]({{< baseurl >}}/pages/reconciling-demand-and-supply-ii/comparison-of-three-crop-production-systems)
+{{% resource_link fc6b5964-9289-fd6a-e7b1-3affacb1871a "S13. Comparison of Three Crop Production Systems" %}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-74-land-water-food-and-climate-fall-2020/01f8b3fa34927db2c228ca05083536db_GMO.jpg
+file: /courses/1-74-land-water-food-and-climate-fall-2020/01f8b3fa34927db2c228ca05083536db_GMO.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

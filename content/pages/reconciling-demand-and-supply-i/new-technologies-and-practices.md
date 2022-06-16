@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
@@ -30,7 +31,7 @@ Overall, biotechnology is a promising development for food security that has alr
 
 Our second technology, precision agriculture, seems to have little downside, other than affordability. Precision agriculture technologies are designed to make crop production more efficient, with respect to the use of water, nutrients, pesticides, labor, capital, and other inputs. They do this by combining new high-resolution sensors, information technology, and cultivation equipment in an integrated package. Widespread adoption of precision agriculture methods could have positive environmental impacts if they reduce water use and undesirable off-farm losses of fertilizer and pesticides. The article by Gebbers and Adamchuk (2010) provides a concise overview of relevant technology while the paper by Bogue (2017) surveys some precision agriculture sensors and equipment in current use or in development. The Millennial Farmer video shows an example of a popular precision agriculture product on a large US farm.
 
-![One big circle surrounding a small circle with icons and labels.]({{< resource_file 3c0b8853-20c2-5872-33b9-16844cfd734f >}})
+{{< resource 3c0b8853-20c2-5872-33b9-16844cfd734f >}}
 
 © American Association for the Advancement of Science. All rights reserved.  
 This content is excluded from our Creative Commons license.  

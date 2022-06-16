@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Professor McLaughlin shares insights about facilitating
+  a reading seminar focused on discussion.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

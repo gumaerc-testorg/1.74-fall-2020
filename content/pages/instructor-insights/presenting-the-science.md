@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Professor McLaughlin discusses how 1.74 Land, Water,
+  Food, and Climate offers students an opportunity to refine their science communication
+  skills.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

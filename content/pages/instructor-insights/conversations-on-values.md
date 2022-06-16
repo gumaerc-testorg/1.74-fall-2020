@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Professor McLaughlin shares that values are a natural
+  part of classroom discussions about land, water, food, and climate.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

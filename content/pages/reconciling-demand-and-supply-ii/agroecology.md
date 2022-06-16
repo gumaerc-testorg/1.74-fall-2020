@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 4 | Reconciling Demand and Supply: Options'
@@ -23,7 +24,7 @@ Agroecology (especially organic production) is generally associated with reduced
 
 Clark and Tilman summarize results from life cycle assessments of a limited number of environmental indicators in a direct comparison of conventional and agroecological production systems. They also compare these indicators for different food groups. They conclude that the two production systems have similar nutrient-related impacts on the environment. They also conclude that meat consumption has significantly more impact on their environmental indicators than the production system. Cassman et al. and Robertson and Vitousek present careful analyses of agricultural nitrogen inputs and related environmental impacts. These relatively long papers are worth reading for the useful information they provide on the origin and fate of nitrogen in its many different forms. They confirm that differences in the way nutrients are processed in the two production systems are subtle and still not well understood. In particular, it is not clear that natural alternatives to synthetic nitrogen fertilizers could meet current, let alone projected, global production requirements.
 
-![A bar chart with 9 bars.]({{< resource_file fa5b85a2-7fa1-25f3-0629-6c046240ce32 >}})
+{{< resource fa5b85a2-7fa1-25f3-0629-6c046240ce32 >}}
 
 © FAO. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).
 
@@ -37,7 +38,7 @@ Although the papers discussed in this class do not give a definitive assessment 
 
 It may be that the most important benefits of agroecology are its emphasis on efficient resource use, biodiversity (see photo below), non-chemical pest management, and improvement of long-term soil quality. All of these contribute to the sustainability and resilience of the overall agricultural system.
 
-![A photo of crops and trees.]({{< resource_file 318d18e2-6d7e-e89c-06f6-057cc69e8895 >}})
+{{< resource 318d18e2-6d7e-e89c-06f6-057cc69e8895 >}}
 
 © Ravi Prabhu. All rights reserved. This content is excluded from our Creative Commons license.  
 For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).
@@ -71,7 +72,7 @@ Optional Reading
 ### Comparison of Agroecological and Conventional Crop Yields
 
 *   Verena Seufert, Navin Ramankutty, and Jonathan A. Foley. 2012. "[Comparing the Yields of Organic and Conventional Agriculture](https://www.nature.com/articles/nature11069)." _Nature_. 485, no. 7397: 229–232.
-*   Andreas Fliessbach, Hans-Rudolf Oberholzer, et al. 2007. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.460.6456&rep=rep1&type=pdf)." _Agriculture, Ecosystems and Environment_. 118, no. 1–4: 273–284.
+*   Andreas Fliessbach, Hans-Rudolf Oberholzer, et al. 2007. "[Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.460.6456&rep=rep1&type=pdf)." _Agriculture, Ecosystems and Environment_. 118, no. 1–4: 273–284.
 
 Discussion Points
 -----------------

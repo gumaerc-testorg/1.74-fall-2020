@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
@@ -18,7 +19,7 @@ Class 6 begins with a survey paper by Tilman et al. (2002) that presents the cas
 
 The papers by Gruber and Galloway (2008) and Cordell (2009) provide more detail on the nitrogen and phosphorus cycles, respectively. The attached figure from Gruber and Galloway identifies important global nitrogen fluxes, with rough estimates of their magnitudes. One of the environmental concerns discussed in both papers is the accumulation of unprecedented amounts of biologically available nutrients in soil and water reservoirs. This accumulation could have adverse consequences for important ecological communities (e.g. the soil biota that support crop growth). Other forms of nitrogen emitted to the atmosphere can have adverse effects on both crops and humans. The optional readings by Smil (1997, 1999), Galloway and Cowling (2002) and Childers (2011) provide additional information on nitrogen and phosphorus and their environmental impacts.
 
-![Three rectangles with some arrows on them.]({{< resource_file 77616159-066f-f47c-3a03-e02f709f54e1 >}})
+{{< resource 77616159-066f-f47c-3a03-e02f709f54e1 >}}
 
 © Springer Nature. All rights reserved. This content is excluded from our Creative Commons license.  
 For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).
@@ -63,7 +64,7 @@ Optional Readings
 ### Nitrogen
 
 *   Vaclav Smil. 1997. "[Global Population and the Nitrogen Cycle](https://www.scientificamerican.com/article/global-population-and-the-nitrogen/)." _Scientific American._ 277, no. 1: 76–81.
-*   Vaclav Smil. 1999. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nitrogen in Crop Production: An Account of Global Flows (PDF)](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999GB900015)." _Global biogeochemical cycles._ 13, no. 2: 647–662.
+*   Vaclav Smil. 1999. "[Nitrogen in Crop Production: An Account of Global Flows (PDF)](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999GB900015)." _Global biogeochemical cycles._ 13, no. 2: 647–662.
 *   James N. Galloway and Ellis B. Cowling. 2002. "[Reactive Nitrogen and the World: 200 Years of Change](https://www.researchgate.net/publication/11297112_Reactive_Nitrogen_and_The_World_200_Years_of_Change)." _AMBIO: A Journal of the Human Environment._ 31, no. 2: 64–71.
 
 ### Phosphorus
@@ -72,7 +73,7 @@ Optional Readings
 
 ### Soil Properties
 
-*   Ann McCauley, Clain Jones, and Jeff Jacobsen. 2005. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
+*   Ann McCauley, Clain Jones, and Jeff Jacobsen. 2005. "[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
 
 Discussion Points
 -----------------

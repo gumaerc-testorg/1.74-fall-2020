@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 4 | Reconciling Demand and Supply: Options'
@@ -44,7 +45,7 @@ Fraction cropland on                            91% 
 Cropland irrigated                                14%                 36%                 2%
 
 N fertilizer use (10{{< sup "6" >}} tonnes                  12 (0.1)           31 (0.3)            0.5 (0.003)  
-   and tonnes arable ha{{< sup "\\-1" >}})  
+   and tonnes arable ha{{< sup "\-1" >}})  
 N fertilizer production (10{{< sup "6" >}} tonnes)        9                    36                    1
 
 **Cereal production**  

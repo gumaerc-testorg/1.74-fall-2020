@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-74-land-water-food-and-climate-fall-2020/df881712239e4a79132ea79dbc832bf6_FigS113.jpg
+file: /courses/1-74-land-water-food-and-climate-fall-2020/df881712239e4a79132ea79dbc832bf6_FigS113.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Figure S1.1.3 UN estimated population trends (USA).

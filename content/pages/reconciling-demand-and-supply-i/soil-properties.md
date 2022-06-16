@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
@@ -11,7 +12,7 @@ uid: 7c50770f-1bf3-0d2c-cbd9-e99f87190be5
 
 Soil is comprised of inorganic minerals, organic matter, water, and air. It typically forms in layers (or soil horizons) when it develops from the weathering and transport of mineral or organic parent material (Figure S9.1).
 
-![A pie chart and a thick bar with 5 colors.](/courses/civil-and-environmental-engineering/1-74-land-water-food-and-climate-fall-2020/reconciling-demand-and-supply-i/soil-properties/Fig_S11.1.jpg)
+{{< resource "b6c218b4-3931-0dc1-4637-814eed6d8105" >}}
 
 Figure S9.1: a) Primary components of soil, fractions are representative but change over time.   
 b) Soil horizons found in a typical agricultural soil profile. From Brady and Weil (2002).
@@ -52,7 +53,7 @@ Unfortunately, data limitations make it difficult to use such methods to analyze
 
 However, there is still ample local evidence that soil quality has declined in particular agricultural areas that have experienced intense cultivation or grazing pressure. These include parts of North and South America, India, China, and sub-Saharan Africa. In these areas it is likely that yield has suffered or, in some cases, that the land is no longer suitable for agriculture.
 
-![Four maps showing 4 different estimates of global soil degradation .](/courses/civil-and-environmental-engineering/1-74-land-water-food-and-climate-fall-2020/reconciling-demand-and-supply-i/soil-properties/Fig_S11.2.jpg)
+{{< resource "b2561a8f-f636-6c0e-395d-681f72f505f9" >}}
 
 Figure S9.2: Four different estimates of global soil degradation with a common color scale (percent of land  
 degraded) and 20km resolution, ca. 1990 (GLASOD) and 2010 (others), from Gibbs and Salmon (2015).
@@ -72,7 +73,7 @@ Günther Fischer, F. Nachtergaele, et al. 2012. "[Global Agro-Ecological Zones (
 
 H. K. Gibbs and J. M. Salmon. 2015. "[Mapping the World's Degraded Lands](https://www.sciencedirect.com/science/article/pii/S0143622814002793)." _Applied Geography_, 57, 12–21.
 
-McCauley, A., Jones, C., and Jacobsen, J. (2005). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
+McCauley, A., Jones, C., and Jacobsen, J. (2005). "[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
 
 Michelle M. Wander, Larry J. Cihacek, et al. 2019. "[Developments in Agricultural Soil Quality and Health: Reflections by the Research Committee on Soil Organic Matter Management](https://www.frontiersin.org/articles/10.3389/fenvs.2019.00109/full)." _Frontiers in Environmental Science_, 7, 10.3389/fenvs.2019.00109.
 

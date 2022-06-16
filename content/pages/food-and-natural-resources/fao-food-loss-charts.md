@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
@@ -12,7 +13,7 @@ uid: 36a7b44b-38f1-0a8b-6306-dfed1c615cf0
 
 The following charts, based on data from Gustavsson et al. (2011), compare food losses for cereals, fruits and vegetables, and meat in different geographical regions. The charts are based on “edible food mass”, which is equivalent to the “wet weight” value used in Alexander et al (2017).
 
-![Three bar charts showing estimated food loss and waste by crop type and region.]({{< resource_file 6f64b4f4-479a-33e4-3584-45b3286360fe >}})
+{{< resource 6f64b4f4-479a-33e4-3584-45b3286360fe >}}
 
 Figure S2.1 FAO estimated food loss and waste by crop type and region (Gustavsson et al., 2011)
 

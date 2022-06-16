@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-74-land-water-food-and-climate-fall-2020/4ea198b13ef35f1ba1a7772a4a57b2bd_FigS114nn.jpg
+file: /courses/1-74-land-water-food-and-climate-fall-2020/4ea198b13ef35f1ba1a7772a4a57b2bd_FigS114nn.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Figure S1.1.4 UN estimated population trends (China).

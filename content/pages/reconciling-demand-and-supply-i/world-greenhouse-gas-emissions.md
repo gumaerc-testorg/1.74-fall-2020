@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
@@ -15,7 +16,7 @@ Overall, direct agricultural operations contribute about 13.5% of total global r
 
 All calculations in the chart are based on CO{{< sub "2" >}} equivalents, using 100-year global warming potentials from the IPCC (1996), based on total global emissions of 49.4 GtCO{{< sub "2" >}} equivalent.
 
-![A graph with multiple color and columns.]({{< resource_file 7f67a420-d9cd-4421-0765-9fcc1dacac63 >}})
+{{< resource 7f67a420-d9cd-4421-0765-9fcc1dacac63 >}}
 
 Figure S11.1 Global greenhouse emission contributions in 2016, by economic sector (World Resources Institute, Accessed August, 2020).
 

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
@@ -20,7 +21,7 @@ This class provides a quick survey of the effects of climate change on agricultu
 
 The nature of these changes remains highly uncertain.
 
-![Two maps showing change in average precipitation.]({{< resource_file 90f389e4-5bf0-b753-4700-01722e993fd1 >}})
+{{< resource 90f389e4-5bf0-b753-4700-01722e993fd1 >}}
 
 © IPCC. All rights reserved. This content is excluded from our Creative Commons license.  
 For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).

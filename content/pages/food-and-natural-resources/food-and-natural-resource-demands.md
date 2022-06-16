@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
@@ -28,10 +29,10 @@ East Africa = 0.9 10{{< sup "9" >}}/0.35 10{{< sup "9" >}} = 2.6        �
 
 *   Energy and protein growth ratios are based on increasing 2050 per capita consumption levels to those reported in 2010 for a typical southern European diet:
 
-                   Global energy= 3300/2900 =  1.15                      (Kcal person{{< sup "\\-1" >}} day{{< sup "\\-1" >}})  
-                   East Africa energy = 3300/2100 = 1.6                 (Kcal person{{< sup "\\-1" >}} day{{< sup "\\-1" >}})  
-                   Global protein= 105/80  = 1.3                             (g person{{< sup "\\-1" >}} day{{< sup "\\-1" >}})  
-                   East Africa protein = 105/60 = 1.8                      (g person{{< sup "\\-1" >}} day{{< sup "\\-1" >}})
+                   Global energy= 3300/2900 =  1.15                      (Kcal person{{< sup "\-1" >}} day{{< sup "\-1" >}})  
+                   East Africa energy = 3300/2100 = 1.6                 (Kcal person{{< sup "\-1" >}} day{{< sup "\-1" >}})  
+                   Global protein= 105/80  = 1.3                             (g person{{< sup "\-1" >}} day{{< sup "\-1" >}})  
+                   East Africa protein = 105/60 = 1.8                      (g person{{< sup "\-1" >}} day{{< sup "\-1" >}})
 
 *   The global food loss ratio is assumed to be 0.9, reflecting a significant decrease in food waste, primarily at the consumer end. The East Africa food loss ratio is also assumed to be 0.9, primarily reflecting a decrease in food loss at the producer end. These food loss figures are just illustrative and are difficult to predict.
 

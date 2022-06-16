@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
@@ -10,7 +11,7 @@ title: 'Class 2: Demand for Food: Population, Diet, and Food Loss'
 uid: ee9afca1-1572-d691-da89-8afd529f77e5
 ---
 
-![Color curves in grids.](/courses/civil-and-environmental-engineering/1-74-land-water-food-and-climate-fall-2020/food-and-natural-resources/demand-for-food/FigS111.jpg)
+{{< resource "91009816-3fb2-af09-6f7a-7b2906afbf1e" >}}
 
 Courtesy [UN Population Division](https://population.un.org/wpp/). License: CC BY.
 
@@ -20,7 +21,7 @@ Per capita demand is generally more difficult to predict than population because
 
 Smil (2002) discusses the inefficiencies that arise when plant energy and protein are converted by animals to meat for human consumption. Increases in meat consumption translate into much larger increases in the consumption of vegetal crops for feed and, therefore, into large increases in the demand for natural resources such as land, water, and nutrients. Most dietary predictions suggest that global per capita demand for food will grow over the next several decades. This reflects dietary trends in developing countries, where meat and total calorie consumption tend to increase as incomes rise.
 
-![A color graph showing food loss.](/courses/civil-and-environmental-engineering/1-74-land-water-food-and-climate-fall-2020/food-and-natural-resources/demand-for-food/FoodLoss.png)
+{{< resource "ef41c575-9dcd-0fb8-f685-2cf5190f6c09" >}}
 
 Courtesy Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission.
 
@@ -77,7 +78,7 @@ Optional Readings
 
 ### Pest Losses
 
-*   E.-C. Oerke. 2006. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Crop Losses to Pests (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.657.5813&rep=rep1&type=pdf).” _Journal of Agricultural Science_, 144, 31–43.
+*   E.-C. Oerke. 2006. “[Crop Losses to Pests (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.657.5813&rep=rep1&type=pdf).” _Journal of Agricultural Science_, 144, 31–43.
     
 
 Discussion Points

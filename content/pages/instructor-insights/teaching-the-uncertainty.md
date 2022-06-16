@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "In this section, Professor McLaughlin shares how he uses scientific\
+  \ literature to raise students\u2019 awareness of the hard dilemmas in the field. "
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -17,7 +19,7 @@ Learning to Appreciate Complexities
 
 One of the interesting things about the course, and a challenging thing for me as a teacher, is that with a lot of the topics we discuss students come in with opinions already, and they can say things in a seminar that are based on just their common knowledge and not on the readings. But when they start to read the scientific papers, they realize that the issues aren't really so much what they learned about in everyday life before the course.
 
-![A mural with a man and a woman holding a baby in the field.]({{< resource_file 01f8b3fa-3492-7db2-c228-ca05083536db >}})
+{{< resource 01f8b3fa-3492-7db2-c228-ca05083536db >}}
 
 An anti-GMO mural. (Courtesy of [hikinghillman](https://flickr.com/photos/hikinghillman/23670619573/in/photolist-C4G7wz-rzvu2o-4yb69n-2hHEFio-f2QTsE-fGcm7J-e7nFHN-e7nBPS-4GAtxZ-GeKyQS-f2AH5P-wCsAQD-f2ADDv-efPbRF-78suDD-78wo1W-eaXqcz-eszkdS-9oPwwK-e7gYxX-SZt8dS-4xYcW9-8RK45d-9DabZz-7HJ8zp-Msu1-BxWsTL-BrygYD-Bry6ni-BxVLvG-B3xSyf-kG8PUz-458Bnc-7EBTTo-kG8P5D-8Tw48e-fQn9Ps-7HCvzh-SZt8k5-YMRRkZ-ShV1hL-kG8eaX-qGWfX8-m7jYQf-B3CEkg-7tFbKi-27hw3kU-2exPe9t-2gnrAHE-2a3ov4a) on Flickr. CC BY-NC)
 

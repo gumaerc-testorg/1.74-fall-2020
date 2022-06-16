@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
@@ -15,7 +16,7 @@ We begin with the paper by D’Odorico et al. (2014), which explores how trade i
 
 Additional insight is provided by MacDonald et al. (2015), who evaluate the quantity of _virtual (or embodied)_ natural resources transferred geographically through trade. The paper looks at agricultural trade in terms of calorie content, cropland and pasture area, and irrigation volume transferred from exporting to importing countries. The attached figure from the optional reading by Dalin et al. (2012) shows how virtual water transfers between continents increased from 1986 to 2007. Similar calculations could be made, but are not included in the paper, for nutrients, pesticides, labor, and other inputs. It is notable that trade alleviates imbalances in food supply and demand at the expense of exporting virtual resources, including water, that may be in short supply in the exporting region.
 
-![A map and two round graphs.]({{< resource_file f5cf1334-ac90-054b-e408-8fbe8a7eba88 >}})
+{{< resource f5cf1334-ac90-054b-e408-8fbe8a7eba88 >}}
 
 © PNAS. All rights reserved. This content is excluded from our Creative Commons license.  
 For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section introduces two opposing perspectives on food security while
+  also considering the broader question of how society can best address critical human
+  needs. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: SECTION 1 | Framing the Discussion

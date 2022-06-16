@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
@@ -14,21 +15,21 @@ Figure S4.1 shows how global food production, agricultural inputs, and total pop
 
 The plot on the right (note the expanded scale) superimposes trends in nitrogen fertilizer and pesticide use, which have grown much faster than cereal production. This result suggests that global nitrogen and pesticide use efficiencies have decreased substantially since 1960. Overall, these results reflect both the success and environmental impact of the twentieth century ‘Green Revolution’, which has made it possible to feed a growing global population through higher yields driven partly by increased inputs and partly by the development of better crop cultivars.
 
-![Two figures with lines and curves.]({{< resource_file 2a0b955a-08dc-a1f7-e223-1eebb51daa2a >}})
+{{< resource 2a0b955a-08dc-a1f7-e223-1eebb51daa2a >}}
 
 Figure S4.1 Trends in global food production, agricultural inputs, and population
 
 Another picture emerges in Figure S4.2, which compares meat, cereal, and population averages for the globe and for East Africa (note the change in the vertical scale on the right due to much higher population growth in East Africa). East African cereal production has barely kept up with population growth and meat production has lagged behind. Also, it appears that domestic production in East Africa will need to increase much faster in the future if it is to meet the demand of the rapidly increasing population.  
  
 
-![Two figures with lines, solid curves, and dashed curves.]({{< resource_file bcd2e375-42c3-b33f-4343-a6bee2096da7 >}})
+{{< resource bcd2e375-42c3-b33f-4343-a6bee2096da7 >}}
 
 Figure S4.2 Comparison of global and East African trends
 
 Figure S4.3 from FAOSTAT shows the marked differences between conditions in developed and developing countries. These are illustrated in comparisons per capita calorie and protein consumption (total consumption before food losses and waste) from 1960 to 2010. The plots clearly reveal how much higher the USA and EU consumption is than the global average.  
  
 
-![Two figures with color curves.]({{< resource_file 90c0371f-e36b-d6e3-5827-ea0ce77c8995 >}})
+{{< resource 90c0371f-e36b-d6e3-5827-ea0ce77c8995 >}}
 
 Figure S4.3 Food consumption trends (energy and protein) in different regions (FAOSTAT, 2019)
 
@@ -37,9 +38,9 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 
 Although the global average has been above the UN recommended minimum for some time, the average energy and protein values for the UN’s “least developed country” group have only risen above this threshold since 2000. Figure S4.4 shows that a significant fraction of residents in these countries is still undernourished (FAO, IFAD and WFP, 2014).
 
-![Left figure: Dashed curve with labels. Right figure: Curves and dashed lines.]({{< resource_file be3010ae-aced-7016-d2a8-18c1515acb3b >}})
+{{< resource be3010ae-aced-7016-d2a8-18c1515acb3b >}}
 
-![A map showing malnutrition trends and distribution.]({{< resource_file f2718b77-4d85-2f7b-9fc6-12cda8b19f76 >}})
+{{< resource f2718b77-4d85-2f7b-9fc6-12cda8b19f76 >}}
 
 Figure S4.4 Malnutrition trends and distribution (FAO, IFAD and WFP, 2014)
 
@@ -50,7 +51,7 @@ The chart in the upper left of Figure S4.4 shows an approximate distribution of 
 
 Figure S4.5a (Gapminder, 2019) shows the strong correlation between calorie intake and per capita income, by country (shown with colored circles). The population of each country is indicated by the area of its circle. Figure S4.5b shows a similar plot of calorie intake vs. the water availability, which is chosen as an example of a natural resource that might limit food production. Note that low income countries with plentiful water can still have low calorie intake while high income countries with scarce water can still have high calorie intake. In short, income seems to be a stronger determinant of access to food than availability of natural resources, because richer countries can afford to import food.
 
-![Two graphs with lots of color dots.]({{< resource_file 610c62ac-e9bd-bd68-2fe8-991e72b7c3de >}})
+{{< resource 610c62ac-e9bd-bd68-2fe8-991e72b7c3de >}}
 
 Figure S4.5 Per capita calorie intake for various countries vs. a) income and b) water availability (Gapminder, 2019).
 
@@ -60,6 +61,6 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 References:
 -----------
 
-FAO, IFAD and WFP. 2014. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The State of Food Insecurity in the World 2014. Strengthening the Enabling Environment for Food Security and Nutrition_ (PDF - 3MB)](http://www.fao.org/3/a-i4030e.pdf). Rome, FAO.
+FAO, IFAD and WFP. 2014. [_The State of Food Insecurity in the World 2014. Strengthening the Enabling Environment for Food Security and Nutrition_ (PDF - 3MB)](http://www.fao.org/3/a-i4030e.pdf). Rome, FAO.
 
 [Gapminder Tools site](https://www.gapminder.org/tools/#$chart-type=bubbles). 2019.
