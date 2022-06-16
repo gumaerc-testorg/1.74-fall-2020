@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 4 | Reconciling Demand and Supply: Options'
@@ -8,10 +10,9 @@ parent_uid: 85a7c276-88f8-3e13-efe6-de32c9c3a35d
 title: 'Class 11: Green Revolutions Past and Future'
 uid: 3187906a-f47f-cc4b-6842-8d931a32d49f
 ---
-
 In Class 11 we examine more closely the high input agricultural systems that now prevail in somewhat different forms in developed countries and a large part of the developing world. These systems, both the large and small farm versions, rely on modern high yield cultivars, extensive irrigation, and synthetic fertilizers. Our discussion builds on readings covered earlier, especially in Section 3, as well as new readings that focus on the feasibility of further increasing production with the high input model.
 
-![A graph of 3 plant types of rice.]({{< resource_file 5860b4b6-a93e-47e7-8227-5dff9e183aa1 >}})
+{{< resource 5860b4b6-a93e-47e7-8227-5dff9e183aa1 >}}
 
 © Springer Nature. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).
 
@@ -29,32 +30,29 @@ Soil quality improvements could also be beneficial but require more than just ad
 
 In food security, as in climate change, it seems that the most realistic options are those that combine a number of measures that may have relatively small effect in themselves but may have significant impact when taken together. We return to this idea in Section 5, after a look at the Agroecology alternative to the Green Revolution.
 
-Required Readings
------------------
+## Required Readings
 
 ### Background on the Green Revolution
 
-*   Peter B. R. Hazell. 2002. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Green Revolution: Curse or Blessing?_ (PDF)](https://oregonstate.edu/instruct/css/330/three/Green.pdf)" No. REP-9450. Washington, DC (USA), IFPRI. 3 p.
-*   D. Pimentel and M. Pimentel 1990. "Comment: Adverse Environmental Consequences of the Green Revolution." _Population and Development Review_, 16, 329–332.
+- Peter B. R. Hazell. 2002. "[_Green Revolution: Curse or Blessing?_ (PDF)](https://oregonstate.edu/instruct/css/330/three/Green.pdf)" No. REP-9450. Washington, DC (USA), IFPRI. 3 p.
+- D. Pimentel and M. Pimentel 1990. "Comment: Adverse Environmental Consequences of the Green Revolution." _Population and Development Review_, 16, 329–332.
 
 ### Possibilities of Further Extending the Green Revolution’s Intensification Approach
 
-*   Kenneth G. Cassman. 1999. "[Ecological Intensification of Cereal Production Systems: Yield Potential, Soil Quality, and Precision Agriculture](https://www.pnas.org/content/96/11/5952)." _Proceedings of the National Academy of Sciences_, 96, no. 11: 5952–5959.
+- Kenneth G. Cassman. 1999. "[Ecological Intensification of Cereal Production Systems: Yield Potential, Soil Quality, and Precision Agriculture](https://www.pnas.org/content/96/11/5952)." _Proceedings of the National Academy of Sciences_, 96, no. 11: 5952–5959.
 
-Optional Reading
-----------------
+## Optional Reading
 
 ### Green Revolution impacts
 
-*   Peter B.R. Hazell. 2010. "Asia’s Green Revolution: Past Achievements and Future Challenges_."_ Chapter 1.3 in _[Rice in the Global Economy. Strategic Research and Policy Issues for Food Security](https://ccacoalition.org/en/resources/rice-global-economy-strategic-research-policy-issues-and-food-security)._ S. Pandey, D. Byerlee, et al. (Eds). _IRRI_. Manila.
+- Peter B.R. Hazell. 2010. "Asia’s Green Revolution: Past Achievements and Future Challenges." Chapter 1.3 in [_Rice in the Global Economy. Strategic Research and Policy Issues for Food Security_](https://ccacoalition.org/en/resources/rice-global-economy-strategic-research-policy-issues-and-food-security)_._ S. Pandey, D. Byerlee, et al. (Eds). _IRRI_. Manila.
 
 ### Genetic Background for the Green Revolution
 
-*   Gurdev S. Khush. 2001. "[Green Revolution: the Way Forward](https://www.nature.com/articles/35093585)." _Nature Reviews Genetics_, 2, no. 10: 815–822.
+- Gurdev S. Khush. 2001. "[Green Revolution: the Way Forward](https://www.nature.com/articles/35093585)." _Nature Reviews Genetics_, 2, no. 10: 815–822.
 
-Discussion Points
------------------
+## Discussion Points
 
-*   Based on what you have read in class, is it likely that large-scale high input agriculture will spread throughout the areas where it is feasible and feed the rest of the world through exports? In this model, which is believed by some to be inevitable, small farms, either high or low input, will essentially disappear, replaced by a more industrialized global food system.
-*   Do you agree with Hazell and others who believe that the Green Revolution’s environmental problems were due to farmer limitations and policy failures rather than any intrinsic deficiency in Green Revolution methods?
-*   Although the Green Revolution may have its limitations, it seems to have been successful at increasing national production. Should we be looking for an alternative when considering the future or learn from the past and improve the basic model so production can be increased further and undesirable side effects minimized?
+- Based on what you have read in class, is it likely that large-scale high input agriculture will spread throughout the areas where it is feasible and feed the rest of the world through exports? In this model, which is believed by some to be inevitable, small farms, either high or low input, will essentially disappear, replaced by a more industrialized global food system.
+- Do you agree with Hazell and others who believe that the Green Revolution’s environmental problems were due to farmer limitations and policy failures rather than any intrinsic deficiency in Green Revolution methods?
+- Although the Green Revolution may have its limitations, it seems to have been successful at increasing national production. Should we be looking for an alternative when considering the future or learn from the past and improve the basic model so production can be increased further and undesirable side effects minimized?
