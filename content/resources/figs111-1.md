@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Courtesy UN Population Division. License: CC BY.'
   image-alt: Figure with curves and legends.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: S1. UN Global and Regional Population Projections
 parent_type: CourseSection

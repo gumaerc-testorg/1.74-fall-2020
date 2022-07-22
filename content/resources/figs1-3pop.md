@@ -8,6 +8,7 @@ image_metadata:
   credit: Figures based on data from UN Population Division (2013).
   image-alt: Three maps showing fertility rates over three time periods.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: S1. UN Global and Regional Population Projections
 parent_type: CourseSection
