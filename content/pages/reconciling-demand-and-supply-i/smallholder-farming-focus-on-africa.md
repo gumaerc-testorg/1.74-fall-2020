@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
+parent_type: CourseSection
 parent_uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 title: 'Class 7: Smallholder Farming: Focus on Africa'
 uid: 4152ebd3-91c9-4fbb-0405-f7544d2c9a9b
 ---
 
-![A map showing farm size.]({{< resource_file f4dc6e25-3991-810a-dd96-399927d0af9f >}})
+{{< resource f4dc6e25-3991-810a-dd96-399927d0af9f >}}
 
 © John Wiley & Sons, Inc. All rights reserved. This content is excluded  
 from our Creative Commons license. For more information,  
@@ -50,7 +54,7 @@ Optional Reading
 
 ### Smallholder Economic Profiles
 
-*   G. Rapsomanikis. 2015. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Economic Lives of Smallholder Farmers: An Analysis Based on Household Data from Nine Countries (PDF - 3.6MB)](http://www.fao.org/3/a-i5251e.pdf)." _Food and Agriculture Organization of the United Nations, Rome_.
+*   G. Rapsomanikis. 2015. "[The Economic Lives of Smallholder Farmers: An Analysis Based on Household Data from Nine Countries (PDF - 3.6MB)](http://www.fao.org/3/a-i5251e.pdf)." _Food and Agriculture Organization of the United Nations, Rome_.
 
 ### Farm Size and Distribution
 

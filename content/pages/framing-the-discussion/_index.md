@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section introduces the course, including links to readings and videos.
+learning_resource_types: []
+ocw_type: CourseSection
 title: SECTION 1 | Framing the Discussion
 uid: d0986837-4f0e-5e5a-8cad-70f86734125a
 ---
@@ -51,4 +54,4 @@ The seminar encourages a critical approach that considers the implications of av
 Topic
 -----
 
-[Class 1: The Food Security Debate]({{< baseurl >}}/pages/framing-the-discussion/class-1-the-food-security-debate)
+{{% resource_link f940c2c2-d72c-e998-ce78-3f0f6abec9e3 "Class 1: The Food Security Debate" %}}

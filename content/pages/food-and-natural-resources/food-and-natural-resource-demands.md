@@ -1,7 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
   and Projected'
+parent_type: CourseSection
 parent_uid: 17b97c14-119d-387b-4d55-af17e0f93899
 title: S5. Food and Natural Resource Demands
 uid: 7bf8d0d4-f030-f7d4-42de-dc47fa08ff4b
@@ -20,15 +24,15 @@ The calculations given below for the globe and East Africa are expressed in term
 
 *   The population growth ratios are based on the median UN estimates for 2010 and 2050:
 
-Global = 9.6 109/ 6.9 109 = 1.4                       (persons)  
-East Africa = 0.9 109/0.35 109 = 2.6               (persons)
+Global = 9.6 10{{< sup "9" >}}/ 6.9 10{{< sup "9" >}} = 1.4                       (persons)  
+East Africa = 0.9 10{{< sup "9" >}}/0.35 10{{< sup "9" >}} = 2.6               (persons)
 
 *   Energy and protein growth ratios are based on increasing 2050 per capita consumption levels to those reported in 2010 for a typical southern European diet:
 
-                   Global energy= 3300/2900 =  1.15                      (Kcal person\-1 day\-1)  
-                   East Africa energy = 3300/2100 = 1.6                 (Kcal person\-1 day\-1)  
-                   Global protein= 105/80  = 1.3                             (g person\-1 day\-1)  
-                   East Africa protein = 105/60 = 1.8                      (g person\-1 day\-1)
+                   Global energy= 3300/2900 =  1.15                      (Kcal person{{< sup "\-1" >}} day{{< sup "\-1" >}})  
+                   East Africa energy = 3300/2100 = 1.6                 (Kcal person{{< sup "\-1" >}} day{{< sup "\-1" >}})  
+                   Global protein= 105/80  = 1.3                             (g person{{< sup "\-1" >}} day{{< sup "\-1" >}})  
+                   East Africa protein = 105/60 = 1.8                      (g person{{< sup "\-1" >}} day{{< sup "\-1" >}})
 
 *   The global food loss ratio is assumed to be 0.9, reflecting a significant decrease in food waste, primarily at the consumer end. The East Africa food loss ratio is also assumed to be 0.9, primarily reflecting a decrease in food loss at the producer end. These food loss figures are just illustrative and are difficult to predict.
 

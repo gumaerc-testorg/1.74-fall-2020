@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 3 | Reconciling Demand and Supply: Context'
+parent_type: CourseSection
 parent_uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 title: S10. Global and Regional Farm Characteristics
 uid: 746a661c-1628-56f3-67a9-69bf52c249e4
@@ -15,7 +19,7 @@ A good place to start in our survey of global farm characteristics is Figure S10
 
 The darker shaded 1 km pixels on the cropland percentage map indicate more densely cultivated regions. The four colors on the field size map show the characteristic crop field size (from “very small” to “large”) identified with a given pixel. The dark green areas in a) are the major food producing regions. The dark blue (large field size) areas in b) generally coincide with the major food exporting areas (North America, Australia, and parts of South America). The red (very small field size) areas in b) indicate regions where smallholder farms dominate (China, India, and sub-Saharan Africa).
 
-![Two maps showing percentage of cropland and field size.]({{< resource_file 04430807-e7f0-8a2a-1737-3c888048cce7 >}})
+{{< resource 04430807-e7f0-8a2a-1737-3c888048cce7 >}}
 
 Figure S10.1: Gridded 1km pixel maps of   a) percentage of land in each pixel devoted to crop production  
 b) characteristic field size category for each pixel. (Fritz et al., 2015).
@@ -27,7 +31,7 @@ Figure S10.2 shows information from global land census surveys conducted in 1990
 
 Panel a) is a snapshot of the global farm size distribution from around 1990-2000. Farm size distributions and averages change over time. The trend plot in Panel b) shows that average farm sizes in high income countries (left scale) continually increased between 1960 and 2000 while farm sizes in other countries generally decreased. African countries are indicated by the dotted line (right scale).  More recent data suggest that the trends in each region still have the same direction.
 
-![A pie chart, a curve figure, and a bar chart.]({{< resource_file b35cc500-f49c-3b84-3d6c-912204622afa >}})
+{{< resource b35cc500-f49c-3b84-3d6c-912204622afa >}}
 
 Figure S10.2 Global farm size category and area distributions and trends. (Lowder et al., 2015).
 
@@ -37,7 +41,7 @@ Although farms over 5 ha only account for 6% of all global farms the land area t
 
 Figure S10.3 shows a similar plot with results for sub-Saharan Africa. Here larger farms contribute a smaller fraction of the regional total area (also, note the change in the horizontal scale). Farms smaller than 2 ha and 5 ha account, respectively, for 38% and 66% of sub-Saharan Africa cropland area while farms larger than these thresholds (but smaller than 50 ha) account, respectively, for the remaining 42% and 34% of area. This suggests that smallholder production is a major fraction of total domestic food production in sub-Saharan Africa.
 
-![A bar chart with black and grey bars.]({{< resource_file 39aa8a0a-c01e-1cea-ab3b-8442795a5d95 >}})
+{{< resource 39aa8a0a-c01e-1cea-ab3b-8442795a5d95 >}}
 
 Figure S11.3 Sub-Saharan farm size category and area distributions compared (Lowder et al., 2015).
 

@@ -1,7 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 2 | Food and Natural Resources: Demand and Supply, Current
   and Projected'
+parent_type: CourseSection
 parent_uid: 17b97c14-119d-387b-4d55-af17e0f93899
 title: 'Class 3: Resources for Food Production: Water'
 uid: 69e4e4f8-88ae-2eeb-59b3-81e322f21100
@@ -9,7 +13,7 @@ uid: 69e4e4f8-88ae-2eeb-59b3-81e322f21100
 
 This class begins by considering the demands placed on global and regional water supplies. The key concept behind the analysis is the hydrologic cycle, which is briefly discussed in S6. Postel et al. (1996) estimate average annual global fresh water fluxes for the portions of the hydrologic cycle most relevant to human uses of water (see attached figure below). They show that agriculture uses much more water than the municipal and industrial sectors, both globally and at river basin scales. However, the agricultural water is a small fraction of the total water passing through the landscape, with most precipitation over land going to evapotranspiration from natural vegetation and to runoff to the ocean.
 
-![A graph with green and blue areas.]({{< resource_file 3d3c7aba-0d31-a89d-d169-f974690dce88 >}})
+{{< resource 3d3c7aba-0d31-a89d-d169-f974690dce88 >}}
 
 Based on Postel (1996), Rost (2008), and FAO (2014).
 

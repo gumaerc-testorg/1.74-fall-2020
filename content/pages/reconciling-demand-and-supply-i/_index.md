@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section continues the discussion of demand and supply, including
+  links to readings and videos.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'SECTION 3 | Reconciling Demand and Supply: Context'
 uid: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
 ---
@@ -12,7 +16,7 @@ _What do we need to consider in our search for practical ways to reconcile food 
 
 The readings and supplementary information provided in Section 2 make some points that we need to consider when looking for ways to reconcile food demand and supply:
 
-*   Demand reductions alone will probably not be sufficient to meet the nutritional needs of the 21st century global population. Food production will also need to increase. The amount of increase required will depend on uncertain changes in per capita demand and population.
+*   Demand reductions alone will probably not be sufficient to meet the nutritional needs of the 21{{< sup "st" >}} century global population. Food production will also need to increase. The amount of increase required will depend on uncertain changes in per capita demand and population.
 *   At the same time, agricultural technology and management practices will need to be more sustainable than they have been, so that increases in production can be maintained over the long term.
 *   The agricultural system will need to be more resilient so it is able to respond to climate change, disease, and uncertain trade policies.
 *   Food will need to be more accessible to populations that are vulnerable to malnutrition.
@@ -32,17 +36,17 @@ Our readings on these topics, together with the Supporting Information, provide 
 Section 3 Class Topics
 ----------------------
 
-[Class 5: Crop Yield]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/crop-yield)  
-[Class 6: Environmental Impacts of Agriculture: Protecting Natural Resources]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/environmental-impacts-of-agriculture)  
-[Class 7: Smallholder Farming: Focus on Africa]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/smallholder-farming-focus-on-africa)  
-[Class 8: Climate Change and Agriculture]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/climate-change-and-agriculture)  
-[Class 9: New Technologies and Practices: Genetic Engineering, Precision Agriculture]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/new-technologies-and-practices)  
-[Class 10: Trade and Optimal Resource Allocation]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/trade-optimal-resource-allocation)
+{{% resource_link 8fb52a39-32b1-91f7-1e21-708a50b05b9f "Class 5: Crop Yield" %}}  
+{{% resource_link 0df26d4a-ca37-738a-c733-9071f083734f "Class 6: Environmental Impacts of Agriculture: Protecting Natural Resources" %}}  
+{{% resource_link 4152ebd3-91c9-4fbb-0405-f7544d2c9a9b "Class 7: Smallholder Farming: Focus on Africa" %}}  
+{{% resource_link c1c3fc25-5f39-8470-1f4e-5b6c36ca4cd2 "Class 8: Climate Change and Agriculture" %}}  
+{{% resource_link cd91cf6f-3d87-1fa4-380a-e053e7ed889b "Class 9: New Technologies and Practices: Genetic Engineering, Precision Agriculture" %}}  
+{{% resource_link 39f4fa80-dcf5-4af5-c6fa-6b09fbf9967e "Class 10: Trade and Optimal Resource Allocation" %}}
 
 Section 3 Supporting information (SI)
 -------------------------------------
 
-[S9. Soil Properties, Soil Suitability Measures, and Changes in Soil Quality]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/soil-properties)  
-[S10. Global and Regional Farm Characteristics]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/global-and-regional-farm-characteristics)  
-[S11. World Greenhouse Gas Emissions: 2016]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/world-greenhouse-gas-emissions)  
-[S12. Adoption of Genetically Engineered Crops in the USA]({{< baseurl >}}/pages/reconciling-demand-and-supply-i/adoption-of-genetically-engineered-crops-in-the-usa)
+{{% resource_link 7c50770f-1bf3-0d2c-cbd9-e99f87190be5 "S9. Soil Properties, Soil Suitability Measures, and Changes in Soil Quality" %}}  
+{{% resource_link 746a661c-1628-56f3-67a9-69bf52c249e4 "S10. Global and Regional Farm Characteristics" %}}  
+{{% resource_link 386d96bd-dc34-e68b-df95-4641d6de2081 "S11. World Greenhouse Gas Emissions: 2016" %}}  
+{{% resource_link 109a33ae-1c21-675a-af3e-2a2b89c25f8b "S12. Adoption of Genetically Engineered Crops in the USA" %}}

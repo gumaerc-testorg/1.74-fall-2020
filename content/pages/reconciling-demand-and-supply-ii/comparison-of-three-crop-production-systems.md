@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'SECTION 4 | Reconciling Demand and Supply: Options'
+parent_type: CourseSection
 parent_uid: 85a7c276-88f8-3e13-efe6-de32c9c3a35d
 title: S13. Comparison of Three Global Crop Production Systems
 uid: fc6b5964-9289-fd6a-e7b1-3affacb1871a
@@ -33,22 +37,22 @@ Fertility (births per woman)                  1.9       
 FAO arable land (million ha)\*               156                  106                  165
 
 Fraction cropland on                            ---                    80%                 66%  
-    farms < 5ha  
+    farms \< 5ha  
 Fraction cropland on                            91%                 --                      --  
     farms > 100 ha                                                                                        
 
 **Inputs**  
 Cropland irrigated                                14%                 36%                 2%
 
-N fertilizer use (106 tonnes                  12 (0.1)           31 (0.3)            0.5 (0.003)  
-   and tonnes arable ha\-1)  
-N fertilizer production (106 tonnes)        9                    36                    1
+N fertilizer use (10{{< sup "6" >}} tonnes                  12 (0.1)           31 (0.3)            0.5 (0.003)  
+   and tonnes arable ha{{< sup "\-1" >}})  
+N fertilizer production (10{{< sup "6" >}} tonnes)        9                    36                    1
 
 **Cereal production**  
 Cereal production                                434                  554                  131  
-Cereal exports (106 tonnes)                64 (15%)         21 (4%)           2.7
+Cereal exports (10{{< sup "6" >}} tonnes)                64 (15%)         21 (4%)           2.7
 
-Cereal imports  (106 tonnes)               10 (2%)           1   (0.2%)        30 (23%)
+Cereal imports  (10{{< sup "6" >}} tonnes)               10 (2%)           1   (0.2%)        30 (23%)
 
 **Socioeconomic**  
 GDP per capita                                    $ 51,000          $ 1894             $ 632

@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Professor McLaughlin shares that values are a natural
+  part of classroom discussions about land, water, food, and climate.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 7e9dbefa-d7c0-55ec-dc1d-dbb6900543ea
 title: Conversations on Values
 uid: 48366bfc-c575-096d-0e2f-f071b9fd7f0c
