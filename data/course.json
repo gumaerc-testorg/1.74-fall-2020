@@ -52,8 +52,10 @@
     "website": "1-74-land-water-food-and-climate-fall-2020"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "4448d368-bcef-49f4-ac38-0aa75a44b567",
+  "site_uid": "7e27c376-152f-45cf-9d07-9f1afc5663b0",
+  "site_short_id": "1.74-fall-2020",
   "title": "Course Metadata"
 }
