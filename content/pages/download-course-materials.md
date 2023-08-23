@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: to be deleted
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Download Course Materials
