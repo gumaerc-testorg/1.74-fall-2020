@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-74-land-water-food-and-climate-fall-2020/b35cc500f49c3b843d6c912204622afa_Fig_S12.2.jpg
+file_size: 212985
 file_type: image/jpeg
 image_metadata:
   caption: ''
