@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-74-land-water-food-and-climate-fall-2020/5860b4b6a93e47e782275dff9e183aa1_C11_RiceVarieties.png
+file_size: 197044
 file_type: image/png
 image_metadata:
   caption: ''

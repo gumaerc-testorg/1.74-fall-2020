@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-74-land-water-food-and-climate-fall-2020/fa5b85a27fa125f306296c046240ce32_SwissAgroEcoStudy.png
+file_size: 24912
 file_type: image/png
 image_metadata:
   caption: ''
