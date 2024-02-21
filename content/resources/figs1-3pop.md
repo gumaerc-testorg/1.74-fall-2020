@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-74-land-water-food-and-climate-fall-2020/d0a2cda5430bdec88396ed91060a3cf7_FigS1-3pop.jpg
+file_size: 391933
 file_type: image/jpeg
 image_metadata:
   caption: Figure S1.3 Fertility rates over three time periods.
