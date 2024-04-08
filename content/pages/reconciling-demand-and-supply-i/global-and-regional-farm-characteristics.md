@@ -35,7 +35,7 @@ Panel a) is a snapshot of the global farm size distribution from around 1990-200
 
 Figure S10.2 Global farm size category and area distributions and trends. (Lowder et al., 2015).
 
-Courtesy Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission.
+Courtesy Elsevier, Inc., {{% resource_link "ce6ecec0-654a-4e93-bb14-b173d8b5a99a" "http://www.sciencedirect.com" %}}. Used with permission.
 
 Although farms over 5 ha only account for 6% of all global farms the land area they each contribute is large. To address this, the Lowder et al. paper also estimates the total cropland area in each size category. Cropland area provides a basis for comparing, for example, the relative contribution to production from smallholders, medium size farms, and large farms. The global cropland area distribution in Panel c) clearly indicates that small farms are more numerous (dark gray) but that larger farms contribute more total area (light gray). Farms smaller than 2 ha and 5 ha account, respectively, for 12% and 18% of global cropland area while farms larger than these thresholds account, respectively, for 88% and 82% of the global total area. We can expect global crop production contributions of small vs. large farms to roughly correlate with these global cropland area figures (see next section).
 
@@ -45,17 +45,17 @@ Figure S10.3 shows a similar plot with results for sub-Saharan Africa. Here larg
 
 Figure S11.3 Sub-Saharan farm size category and area distributions compared (Lowder et al., 2015).
 
-Courtesy Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission.
+Courtesy Elsevier, Inc., {{% resource_link "ce6ecec0-654a-4e93-bb14-b173d8b5a99a" "http://www.sciencedirect.com" %}}. Used with permission.
 
 A recent study by Ricciardi et al. (2018) provides smallholder cropland area estimates that are somewhat higher than Lowder et al. and are based on a somewhat smaller number of country surveys. The Ricciardi et al. (2018) paper estimates that smallholder farms less than 2 ha occupy 24% of global cropland area (rather than 18%). It also indicates that these farms generate 28-31% of global crop production and 30-34% of global calorie production. These results confirm Lowder’s conclusion that smallholder farms contribute significantly to the global food supply. The Ricciardi et al. (2018) paper does not provide results for particular regions, such as sub-Saharan Africa but it does provide size category distributions for particular crops.
 
 References:
 -----------
 
-Steffen Fritz, Linda See, et al. 2015. "[Mapping Global Cropland and Field Size](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12838)." _Global Change Biology_, 21, no. 5: 1980–1992.
+Steffen Fritz, Linda See, et al. 2015. "{{% resource_link "40d946b6-f8a7-4eb3-9310-e6574a5d70b3" "Mapping Global Cropland and Field Size" %}}." _Global Change Biology_, 21, no. 5: 1980–1992.
 
-IFAD International Fund for Agricultural Development. 2010. "[Rural Poverty Report 2011 - New Realities, New Challenges: New Opportunities for Tomorrow’s Generation](https://reliefweb.int/report/world/rural-poverty-report-2011-new-realities-new-challenges-new-opportunities-tomorrows)." Annexes 1 and 2. IFAD, Rome
+IFAD International Fund for Agricultural Development. 2010. "{{% resource_link "c38315a9-c573-433f-9ee0-1302a519ec8e" "Rural Poverty Report 2011 - New Realities, New Challenges: New Opportunities for Tomorrow’s Generation" %}}." Annexes 1 and 2. IFAD, Rome
 
-Sarah K. Lowder, Jakob Skoet, and Terri Raney. 2016. "[The Number, Size, and Distribution of Farms, Smallholder Farms, and Family Farms Worldwide](https://www.sciencedirect.com/science/article/pii/S0305750X15002703)." _World Development_, 87, 16–29.
+Sarah K. Lowder, Jakob Skoet, and Terri Raney. 2016. "{{% resource_link "993e58e4-a2f4-4466-b23a-2f3785c89088" "The Number, Size, and Distribution of Farms, Smallholder Farms, and Family Farms Worldwide" %}}." _World Development_, 87, 16–29.
 
-Vincent Ricciardi, Navin Ramankutty, et al. 2018. "[How Much of the World's Food Do Smallholders Produce?](https://www.sciencedirect.com/science/article/pii/S2211912417301293)" _Global Food Security_, 17, 64–72.
+Vincent Ricciardi, Navin Ramankutty, et al. 2018. "{{% resource_link "6f38d76c-7539-4f6c-81e5-b87643b899eb" "How Much of the World's Food Do Smallholders Produce?" %}}" _Global Food Security_, 17, 64–72.

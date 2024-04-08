@@ -1,0 +1,12 @@
+---
+backup_url: ''
+content_type: external-resource
+external_url: https://academic.oup.com/bioscience/article/61/2/117/242667
+has_external_licence_warning: true
+has_external_license_warning: true
+is_broken: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+title: 'Sustainability Challenges of Phosphorus and Food: Solutions from Closing the
+  Human Phosphorus Cycle'
+uid: 89aa8c11-73ab-4dfb-910d-db7a8845bd79
+---
