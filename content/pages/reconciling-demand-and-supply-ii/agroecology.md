@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: Details on agroecology
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'SECTION 4 | Reconciling Demand and Supply: Options'
@@ -9,7 +10,6 @@ parent_uid: 85a7c276-88f8-3e13-efe6-de32c9c3a35d
 title: 'Class 12: Agroecology'
 uid: f15864c8-e1d9-f1b7-8c00-28a2df10524f
 ---
-
 In Class 12 we consider agroecology, which is as much a philosophy and a movement as a set of techniques for growing crops. As the name implies, this perspective views a farm or larger agricultural area as an ecosystem to be managed for human benefit, primarily food production. The intent of the agroecological approach is to rely on practices that work in harmony with natural processes. This may or may not increase yield over conventional (aka Green Revolution) approaches and may or may not alleviate particular environmental problems. “Agroecological” is a broader term than “organic” since organic practices are more regulated and often more restrictive. However, we generally use the terms interchangeably in this discussion.
 
 The practices most commonly associated with agroecology are summarized in the reading by Wezel et al. (2014), which is oriented towards conditions in temperate developed countries. The paper by Pretty (2008) takes a broader global view and provides more discussion of yield and environmental aspects. Both papers are longer than necessary but can be read efficiently. Wezel et al. conveniently summarize agroecological practices in Table 3, which gives the essence of the paper. These practices are divided into “Efficiency increase and substitution” and “Redesign” categories and are discussed in more detail in Sections 3 and 4 of the paper. Wezel et al. note the increased labor requirements of some agroecological practices, such as intercropping and non-chemical pest management. This is an important issue, especially in areas with labor shortages or high labor costs.
@@ -24,7 +24,7 @@ Agroecology (especially organic production) is generally associated with reduced
 
 Clark and Tilman summarize results from life cycle assessments of a limited number of environmental indicators in a direct comparison of conventional and agroecological production systems. They also compare these indicators for different food groups. They conclude that the two production systems have similar nutrient-related impacts on the environment. They also conclude that meat consumption has significantly more impact on their environmental indicators than the production system. Cassman et al. and Robertson and Vitousek present careful analyses of agricultural nitrogen inputs and related environmental impacts. These relatively long papers are worth reading for the useful information they provide on the origin and fate of nitrogen in its many different forms. They confirm that differences in the way nutrients are processed in the two production systems are subtle and still not well understood. In particular, it is not clear that natural alternatives to synthetic nitrogen fertilizers could meet current, let alone projected, global production requirements.
 
-{{< resource fa5b85a2-7fa1-25f3-0629-6c046240ce32 >}}
+{{< resource uuid="fa5b85a2-7fa1-25f3-0629-6c046240ce32" >}}
 
 © FAO. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).
 
@@ -38,45 +38,42 @@ Although the papers discussed in this class do not give a definitive assessment 
 
 It may be that the most important benefits of agroecology are its emphasis on efficient resource use, biodiversity (see photo below), non-chemical pest management, and improvement of long-term soil quality. All of these contribute to the sustainability and resilience of the overall agricultural system.
 
-{{< resource 318d18e2-6d7e-e89c-06f6-057cc69e8895 >}}
+{{< resource uuid="318d18e2-6d7e-e89c-06f6-057cc69e8895" >}}
 
-© Ravi Prabhu. All rights reserved. This content is excluded from our Creative Commons license.  
+© Ravi Prabhu. All rights reserved. This content is excluded from our Creative Commons license.   
 For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).
 
-Required Readings
------------------
+## Required Readings
 
 ### Summary of agroecological practices
 
-*   Alexander Wezel, Marion Casagrande, et al. 2014. "[Agroecological Practices for Sustainable Agriculture. A Review](https://link.springer.com/article/10.1007/s13593-013-0180-7)." _Agronomy for Sustainable Development_. 34, no. 1: 1–20.
-*   Jules Pretty. 2008. "[Agricultural Sustainability: Concepts, Principles and Evidence](https://royalsocietypublishing.org/doi/10.1098/rstb.2007.2163)." _Philosophical Transactions of the Royal Society B: Biological Sciences._ 363, no. 1491: 447–465.
+- Alexander Wezel, Marion Casagrande, et al. 2014. "{{% resource_link "8c0d0660-f81c-4ace-a82c-54f985f6e2d9" "Agroecological Practices for Sustainable Agriculture. A Review" %}}." *Agronomy for Sustainable Development*. 34, no. 1: 1–20.
+- Jules Pretty. 2008. "{{% resource_link "58162bfb-393c-4067-bc4d-7acc9b4be263" "Agricultural Sustainability: Concepts, Principles and Evidence" %}}." *Philosophical Transactions of the Royal Society B: Biological Sciences.* 363, no. 1491: 447–465.
 
 ### Comparison of Agroecological and Conventional Performance
 
-*   Verena Seufert and Navin Ramankutty. 2017. "[Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture](https://advances.sciencemag.org/content/3/3/e1602638)." _Science Advances_. 3, no. 3, e1602638.
-*   Verena Seufert and Navin Ramankutty. 2017. "Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture. Supplementary Information." _Science Advances_. 3, no. 3, e1602638.
+- Verena Seufert and Navin Ramankutty. 2017. "{{% resource_link "b560e03a-0c37-4765-b5a9-cea64ae4f814" "Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture" %}}." *Science Advances*. 3, no. 3, e1602638.
+- Verena Seufert and Navin Ramankutty. 2017. "Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture. Supplementary Information." *Science Advances*. 3, no. 3, e1602638.
 
-Optional Reading
-----------------
+## Optional Reading
 
 ### Agroecology Overview
 
-*   UN FAO. 2015. "[Agroecology for Food Security and Nutrition: Proceedings of the FAO International Symposium](http://www.fao.org/family-farming/detail/en/c/342680/)." _International Symposium on Agroecology for Food Security and Nutrition_. Rome, Italy. 426 pp.
+- UN FAO. 2015. "{{% resource_link "9127b8ca-849b-4c3e-b64d-41feee24ec9d" "Agroecology for Food Security and Nutrition: Proceedings of the FAO International Symposium" %}}." *International Symposium on Agroecology for Food Security and Nutrition*. Rome, Italy. 426 pp.
 
 ### Nitrogen in Agriculture
 
-*   Michael Clark and David Tilman. 2017. "[Comparative Analysis of Environmental Impacts of Agricultural Production Systems, Agricultural Input Efficiency, and Food Choice](https://iopscience.iop.org/article/10.1088/1748-9326/aa6cd5/meta)." _Environmental Research Letters._ 12, no. 6: 064016.
-*   Kenneth G. Cassman, Achim Dobermann, and Daniel T. Walters. 2002. "[Agroecosystems, Nitrogen-Use Efficiency, and Nitrogen Management](https://pubmed.ncbi.nlm.nih.gov/12078002/)." _AMBIO: A Journal of the Human Environment._ 31, no. 2: 132–140.
-*   G. Philip Robertson and Peter M. Vitousek. 2009. "[Nitrogen in Agriculture: Balancing the Cost of an Essential Resource](https://www.annualreviews.org/doi/abs/10.1146/annurev.environ.032108.105046)." _Annual Review of Environment and Resources._ 34, 97–125.
+- Michael Clark and David Tilman. 2017. "{{% resource_link "58229610-68a2-42bf-81a0-f2c274190234" "Comparative Analysis of Environmental Impacts of Agricultural Production Systems, Agricultural Input Efficiency, and Food Choice" %}}." *Environmental Research Letters.* 12, no. 6: 064016.
+- Kenneth G. Cassman, Achim Dobermann, and Daniel T. Walters. 2002. "{{% resource_link "fee60d93-5016-45a8-bd63-4866a2f6ceb4" "Agroecosystems, Nitrogen-Use Efficiency, and Nitrogen Management" %}}." *AMBIO: A Journal of the Human Environment.* 31, no. 2: 132–140.
+- G. Philip Robertson and Peter M. Vitousek. 2009. "{{% resource_link "b84916fa-714c-4e1f-8adb-481cd4854171" "Nitrogen in Agriculture: Balancing the Cost of an Essential Resource" %}}." *Annual Review of Environment and Resources.* 34, 97–125.
 
 ### Comparison of Agroecological and Conventional Crop Yields
 
-*   Verena Seufert, Navin Ramankutty, and Jonathan A. Foley. 2012. "[Comparing the Yields of Organic and Conventional Agriculture](https://www.nature.com/articles/nature11069)." _Nature_. 485, no. 7397: 229–232.
-*   Andreas Fliessbach, Hans-Rudolf Oberholzer, et al. 2007. "[Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.460.6456&rep=rep1&type=pdf)." _Agriculture, Ecosystems and Environment_. 118, no. 1–4: 273–284.
+- Verena Seufert, Navin Ramankutty, and Jonathan A. Foley. 2012. "{{% resource_link "e088d07d-c137-40e2-834b-80c3d6ab7f3e" "Comparing the Yields of Organic and Conventional Agriculture" %}}." *Nature*. 485, no. 7397: 229–232.
+- Andreas Fliessbach, Hans-Rudolf Oberholzer, et al. 2007. "{{% resource_link "ded1b32e-f5c8-4124-a967-0b0d1f9418c9" "Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming (PDF)" %}}." *Agriculture, Ecosystems and Environment*. 118, no. 1–4: 273–284.
 
-Discussion Points
------------------
+## Discussion Points
 
-*   Do you think that agroecological and/or organic methods could feed the current or projected 2050 global populations with the current FAOSTAT global average diet? How might your answer change with a different diet?
-*   What was your impression of organic agriculture coming into this class? How has it changed, if at all?
-*   Elaborate on the pros and cons of donors and governments encouraging agroecological methods in developing countries, especially in Africa. Should we apply different criteria in these countries (as opposed to developed countries) when assessing the desirability of agroecology? Is agroecology a luxury for the rich or an option that could be very successful in the developing world because it builds on tradition and requires less capital?
+- Do you think that agroecological and/or organic methods could feed the current or projected 2050 global populations with the current FAOSTAT global average diet? How might your answer change with a different diet?
+- What was your impression of organic agriculture coming into this class? How has it changed, if at all?
+- Elaborate on the pros and cons of donors and governments encouraging agroecological methods in developing countries, especially in Africa. Should we apply different criteria in these countries (as opposed to developed countries) when assessing the desirability of agroecology? Is agroecology a luxury for the rich or an option that could be very successful in the developing world because it builds on tradition and requires less capital?
