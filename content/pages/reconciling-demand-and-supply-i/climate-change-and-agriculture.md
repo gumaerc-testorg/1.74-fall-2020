@@ -47,26 +47,26 @@ Required Readings
 
 ### Climate Change Summary
 
-*   IPCC, 2014: _[Climate Change 2014: Synthesis Report](https://www.ipcc.ch/report/ar5/syr/)_. _Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change_ \[Core Writing Team, R.K. Pachauri and L.A. Meyer (eds.)\]. IPCC, Geneva, Switzerland, 151 pp. \[Required reading: Summary for Policy Makers, Sections SPM1 and SPM2, pp. 1–16; Recommended reading: Topics 1 and 2, pp. 39–74\]
+*   IPCC, 2014: _{{% resource_link "875f121b-f24a-4889-9b27-1624f3a9ec8b" "Climate Change 2014: Synthesis Report" %}}_. _Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change_ \[Core Writing Team, R.K. Pachauri and L.A. Meyer (eds.)\]. IPCC, Geneva, Switzerland, 151 pp. \[Required reading: Summary for Policy Makers, Sections SPM1 and SPM2, pp. 1–16; Recommended reading: Topics 1 and 2, pp. 39–74\]
 
 ### Climate and Agriculture
 
-*   A. C. Ruane and C. Rosenzweig. 2019: "[Chapter 5: Climate Change Impacts on Agriculture](https://www.worldscientific.com/doi/abs/10.1142/9789813278356_0005)." In _Agriculture & Food Systems to 2050_. P. Pingali and R. Serraj, Eds., World Scientific Series in Grand Public Policy Challenges of the 21st Century, vol. 2. World Scientific, pp. 161–191.
+*   A. C. Ruane and C. Rosenzweig. 2019: "{{% resource_link "135a2c2e-580d-44b3-bfba-08df252f956b" "Chapter 5: Climate Change Impacts on Agriculture" %}}." In _Agriculture & Food Systems to 2050_. P. Pingali and R. Serraj, Eds., World Scientific Series in Grand Public Policy Challenges of the 21st Century, vol. 2. World Scientific, pp. 161–191.
 
 ###  Climate and Smallholders
 
-*   J. F. Morton. 2007. "[The Impact of Climate Change on Smallholder and Subsistence Agriculture](https://www.pnas.org/content/104/50/19680)." _Proceedings of the National Academy of Sciences_, 104, no. 50: 19680–19685.
+*   J. F. Morton. 2007. "{{% resource_link "ddcfcc9b-a483-4c88-b383-544cbd4621a0" "The Impact of Climate Change on Smallholder and Subsistence Agriculture" %}}." _Proceedings of the National Academy of Sciences_, 104, no. 50: 19680–19685.
 
 ### Climate and Pests
 
-*   C. A. Deutsch, J. J. Tewksbury, et al. 2018. "[Increase in Crop Losses to Insect Pests in a Warming Climate](https://science.sciencemag.org/content/361/6405/916?utm_campaign=toc_sci-mag_2018-08-30&et_rid=35093317&et_cid=2339801)." _Science_, 361, no. 6405: 916–919.
+*   C. A. Deutsch, J. J. Tewksbury, et al. 2018. "{{% resource_link "6cdc0b1b-fe87-4dc8-8de9-32029473932a" "Increase in Crop Losses to Insect Pests in a Warming Climate" %}}." _Science_, 361, no. 6405: 916–919.
 
 Optional Reading
 ----------------
 
 ### Climate Change Physical Science Basis
 
-*   T. F. Stocker, D. Qin, et al. 2013. "[Technical Summary](https://www.ipcc.ch/report/ar5/wg1/)." In _Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change_. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+*   T. F. Stocker, D. Qin, et al. 2013. "{{% resource_link "4a40c2df-64d7-4c00-be31-3e82386c9c4e" "Technical Summary" %}}." In _Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change_. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
 
 Discussion Points
 -----------------

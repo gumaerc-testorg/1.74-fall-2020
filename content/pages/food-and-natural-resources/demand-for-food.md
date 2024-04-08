@@ -13,7 +13,7 @@ uid: ee9afca1-1572-d691-da89-8afd529f77e5
 
 {{< resource "91009816-3fb2-af09-6f7a-7b2906afbf1e" >}}
 
-Courtesy [UN Population Division](https://population.un.org/wpp/). License: CC BY.
+Courtesy {{% resource_link "60ee798c-ff60-480f-a732-d7379129f289" "UN Population Division" %}}. License: CC BY.
 
 This class discusses five readings that explore the primary factors affecting demand for food—population, diet, and food loss. One way to view the demand side of food security is to distinguish increases in population from increases in per capita demand. Cleland (2013) provides a brief review of demography and discusses likely global population growth over the next few decades. This review complements the United Nations population data provided in S1. A major message is that population in many regions will level off, and perhaps even decline during the 21{{< sup "st" >}} century. However, large increases can be expected in a few high growth regions such as sub-Saharan Africa. These geographical imbalances will affect food security, trade, and opportunities for economic development. Mismatches between regional demand and production are reflected in S4, which shows that global production of cereal and meat have grown faster than global population while production in East Africa has barely kept up with its rapidly growing population. This situation is especially critical since many residents of East Africa are unable to afford food imports to supplement inadequate local production.
 
@@ -23,7 +23,7 @@ Smil (2002) discusses the inefficiencies that arise when plant energy and protei
 
 {{< resource "ef41c575-9dcd-0fb8-f685-2cf5190f6c09" >}}
 
-Courtesy Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission.
+Courtesy Elsevier, Inc., {{% resource_link "ce6ecec0-654a-4e93-bb14-b173d8b5a99a" "http://www.sciencedirect.com" %}}. Used with permission.
 
 Alexander et al. (2017) cover the topic of food loss, which can be viewed either as an increase in demand or a reduction in supply. They estimate global food losses and inefficiencies during production and distribution as well as the impact of food waste at the consumption end of the food chain (further detail from the optional readings is provided in S2). The portion of food lost to pests is considered in the first three sections of Yudelman et al. (1998). Calculations included in S5 show how growing population could combine with dietary change and food loss to significantly increase both global and regional food demand by 2050.
 
@@ -36,27 +36,27 @@ Required Readings
 
 ### Population and Demography
 
-*   John Cleland. 2013. "[World Population Growth; Past, Present and Future](https://ideas.repec.org/a/kap/enreec/v55y2013i4p543-554.html)." _Environmental and Resource Economics_. 55, no. 4: 543–554.
+*   John Cleland. 2013. "{{% resource_link "2e27b45f-0182-4365-97e3-5afe7789aa87" "World Population Growth; Past, Present and Future" %}}." _Environmental and Resource Economics_. 55, no. 4: 543–554.
     
 
 ### Meat Demand on Crops
 
-*   Vaclav Smil. 2002. "[Worldwide Transformation of Diets, Burdens of Meat Production and Opportunities for Novel Food Proteins](https://www.sciencedirect.com/science/article/pii/S014102290100504X)." _Enzyme and Microbial Technology_. 30, no. 3: 305–311.
+*   Vaclav Smil. 2002. "{{% resource_link "aaa32779-09fd-4283-9ff3-bf00c2a029fe" "Worldwide Transformation of Diets, Burdens of Meat Production and Opportunities for Novel Food Proteins" %}}." _Enzyme and Microbial Technology_. 30, no. 3: 305–311.
     
 
 ### Global Nutrition Survey
 
-*   Miguel I. Gomez, Christopher B. Barrett, et al. 2013. "[Post-Green Revolution Food Systems and the Triple Burden of Malnutrition](https://www.sciencedirect.com/science/article/abs/pii/S0306919213000754)." _Food Policy_. 42: 129–138.
+*   Miguel I. Gomez, Christopher B. Barrett, et al. 2013. "{{% resource_link "c6fe6192-ac96-4846-b0bf-31f93b265a8c" "Post-Green Revolution Food Systems and the Triple Burden of Malnutrition" %}}." _Food Policy_. 42: 129–138.
     
 
 ### Food Losses and Inefficiencies during and after Harvest
 
-*   Peter Alexander, Calum Brown, et al. 2017. “[Losses, Inefficiencies and Waste in the Global Food System](https://www.sciencedirect.com/science/article/pii/S0308521X16302384).” _Agricultural Systems_, 153 (2017) 190–200.
+*   Peter Alexander, Calum Brown, et al. 2017. “{{% resource_link "7a2a6ccd-5173-4f13-baf9-1cd2e645e2d5" "Losses, Inefficiencies and Waste in the Global Food System" %}}.” _Agricultural Systems_, 153 (2017) 190–200.
     
 
 ### Crop Losses to Pests
 
-*   Montague Yudelman, Annu Ratta, et al. 1998. [_Pest Management and Food Production: Looking to the Future_](https://www.ifpri.org/publication/pest-management-and-food-production) (Sections 1–3). International Food Policy Research Institute. Washington, DC 20006–1002.
+*   Montague Yudelman, Annu Ratta, et al. 1998. {{% resource_link "5d980342-9376-4838-8909-c63d8069ec2a" "_Pest Management and Food Production: Looking to the Future_" %}} (Sections 1–3). International Food Policy Research Institute. Washington, DC 20006–1002.
     
 
 Optional Readings
@@ -64,7 +64,7 @@ Optional Readings
 
 ### Prospects for Global Agriculture
 
-*   Nikos Alexandratos and Jelle Bruinsma. 2012. [_World Agriculture Towards 2030/2050: The 2012 Revision_](https://ageconsearch.umn.edu/record/288998/?ln=en). Food and Agriculture Organization (FAO) of the United Nations. ESA Working Paper no. 12–03.
+*   Nikos Alexandratos and Jelle Bruinsma. 2012. {{% resource_link "f1e47ea2-3a33-4454-b6ce-e52e90af440d" "_World Agriculture Towards 2030/2050: The 2012 Revision_" %}}. Food and Agriculture Organization (FAO) of the United Nations. ESA Working Paper no. 12–03.
 
 ### Nutrition and Food Security
 
@@ -73,12 +73,12 @@ Optional Readings
 
 ### Food Losses during and after Harvest
 
-*   Jenny Gustavsson, Christel Cederberg, et al. 2011. _[Global Food Losses and Food Waste: Extent, Causes and Prevention](https://reliefweb.int/report/world/global-food-losses-and-food-waste-extent-causes-and-prevention)_. Report commissioned by Food and Agriculture Organization (FAO) of the United Nations.
+*   Jenny Gustavsson, Christel Cederberg, et al. 2011. _{{% resource_link "98f89b76-3d55-4c16-89f1-d744c03cee3c" "Global Food Losses and Food Waste: Extent, Causes and Prevention" %}}_. Report commissioned by Food and Agriculture Organization (FAO) of the United Nations.
     
 
 ### Pest Losses
 
-*   E.-C. Oerke. 2006. “[Crop Losses to Pests (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.657.5813&rep=rep1&type=pdf).” _Journal of Agricultural Science_, 144, 31–43.
+*   E.-C. Oerke. 2006. “{{% resource_link "6f7b07d2-d732-4977-9e8b-48b4aa68f1a0" "Crop Losses to Pests (PDF)" %}}.” _Journal of Agricultural Science_, 144, 31–43.
     
 
 Discussion Points

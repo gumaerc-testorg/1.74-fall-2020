@@ -58,23 +58,23 @@ However, there is still ample local evidence that soil quality has declined in p
 Figure S9.2: Four different estimates of global soil degradation with a common color scale (percent of land  
 degraded) and 20km resolution, ca. 1990 (GLASOD) and 2010 (others), from Gibbs and Salmon (2015).
 
-Courtesy Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission.
+Courtesy Elsevier, Inc., {{% resource_link "ce6ecec0-654a-4e93-bb14-b173d8b5a99a" "http://www.sciencedirect.com" %}}. Used with permission.
 
 References
 ----------
 
  Nyle C. Brady and Ray R. Weil. 2002. _The Nature and Properties of Soils_, 13th Edition. Prentice Hall. Upper Saddle River, New Jersey. 960 p. ISBN: 9780130167637.
 
-John W. Doran and Timothy B. Parkin. 1994. "[Defining and Assessing Soil Quality](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2136/sssaspecpub35.c1)." _Defining Soil Quality for a Sustainable Environment_, 35: 1–21.
+John W. Doran and Timothy B. Parkin. 1994. "{{% resource_link "fb1efb45-9ada-4d98-a6ad-cb08f0d9cbe0" "Defining and Assessing Soil Quality" %}}." _Defining Soil Quality for a Sustainable Environment_, 35: 1–21.
 
-FAO/IIASA/ISRIC/ISSCAS/JRC. (2012). "[Harmonized World Soil Database v 1.2](http://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-database-v12/en/)." FAO, Rome, Italy and IIASA, Laxenburg, Austria.
+FAO/IIASA/ISRIC/ISSCAS/JRC. (2012). "{{% resource_link "b6013303-2a22-4a49-ab79-adc6240425da" "Harmonized World Soil Database v 1.2" %}}." FAO, Rome, Italy and IIASA, Laxenburg, Austria.
 
-Günther Fischer, F. Nachtergaele, et al. 2012. "[Global Agro-Ecological Zones (GAEZ v3. 0) - Model Documentation](https://www.researchgate.net/publication/272789572_Global_Agro-Ecological_Zones_GAEZ_v30_-_Model_Documentation)."
+Günther Fischer, F. Nachtergaele, et al. 2012. "{{% resource_link "7dbfa2aa-da0c-4210-83d2-c9bffb8f26d5" "Global Agro-Ecological Zones (GAEZ v3. 0) - Model Documentation" %}}."
 
-H. K. Gibbs and J. M. Salmon. 2015. "[Mapping the World's Degraded Lands](https://www.sciencedirect.com/science/article/pii/S0143622814002793)." _Applied Geography_, 57, 12–21.
+H. K. Gibbs and J. M. Salmon. 2015. "{{% resource_link "7cfc6741-c866-42e8-93be-71778de9b71e" "Mapping the World's Degraded Lands" %}}." _Applied Geography_, 57, 12–21.
 
-McCauley, A., Jones, C., and Jacobsen, J. (2005). "[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
+McCauley, A., Jones, C., and Jacobsen, J. (2005). "{{% resource_link "86aa94b7-0b3b-491b-b8ac-873066f4c88b" "Basic Soil Properties (PDF)" %}}." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
 
-Michelle M. Wander, Larry J. Cihacek, et al. 2019. "[Developments in Agricultural Soil Quality and Health: Reflections by the Research Committee on Soil Organic Matter Management](https://www.frontiersin.org/articles/10.3389/fenvs.2019.00109/full)." _Frontiers in Environmental Science_, 7, 10.3389/fenvs.2019.00109.
+Michelle M. Wander, Larry J. Cihacek, et al. 2019. "{{% resource_link "6f84e7ed-5ce4-4fde-bb5e-a4a83cb6e313" "Developments in Agricultural Soil Quality and Health: Reflections by the Research Committee on Soil Organic Matter Management" %}}." _Frontiers in Environmental Science_, 7, 10.3389/fenvs.2019.00109.
 
-Florian Zabel, Birgitta Putzenlechner, and Wolfram Mauser. 2014. "[Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4167994/)." _PLoS One,_ 9, no. 9.
+Florian Zabel, Birgitta Putzenlechner, and Wolfram Mauser. 2014. "{{% resource_link "4e49bde5-5d3d-4ee1-93b7-68616733ba67" "Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions" %}}." _PLoS One,_ 9, no. 9.
