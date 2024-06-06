@@ -47,30 +47,30 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair
 
 ### Summary of agroecological practices
 
-- Alexander Wezel, Marion Casagrande, et al. 2014. "{{% resource_link "8c0d0660-f81c-4ace-a82c-54f985f6e2d9" "Agroecological Practices for Sustainable Agriculture. A Review" %}}." *Agronomy for Sustainable Development*. 34, no. 1: 1–20.
-- Jules Pretty. 2008. "{{% resource_link "58162bfb-393c-4067-bc4d-7acc9b4be263" "Agricultural Sustainability: Concepts, Principles and Evidence" %}}." *Philosophical Transactions of the Royal Society B: Biological Sciences.* 363, no. 1491: 447–465.
+- Alexander Wezel, Marion Casagrande, et al. 2014. "[Agroecological Practices for Sustainable Agriculture. A Review](https://link.springer.com/article/10.1007/s13593-013-0180-7)." *Agronomy for Sustainable Development*. 34, no. 1: 1–20.
+- Jules Pretty. 2008. "[Agricultural Sustainability: Concepts, Principles and Evidence](https://royalsocietypublishing.org/doi/10.1098/rstb.2007.2163)." *Philosophical Transactions of the Royal Society B: Biological Sciences.* 363, no. 1491: 447–465.
 
 ### Comparison of Agroecological and Conventional Performance
 
-- Verena Seufert and Navin Ramankutty. 2017. "{{% resource_link "b560e03a-0c37-4765-b5a9-cea64ae4f814" "Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture" %}}." *Science Advances*. 3, no. 3, e1602638.
+- Verena Seufert and Navin Ramankutty. 2017. "[Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture](https://advances.sciencemag.org/content/3/3/e1602638)." *Science Advances*. 3, no. 3, e1602638.
 - Verena Seufert and Navin Ramankutty. 2017. "Many Shades of Gray—the Context-Dependent Performance of Organic Agriculture. Supplementary Information." *Science Advances*. 3, no. 3, e1602638.
 
 ## Optional Reading
 
 ### Agroecology Overview
 
-- UN FAO. 2015. "{{% resource_link "9127b8ca-849b-4c3e-b64d-41feee24ec9d" "Agroecology for Food Security and Nutrition: Proceedings of the FAO International Symposium" %}}." *International Symposium on Agroecology for Food Security and Nutrition*. Rome, Italy. 426 pp.
+- UN FAO. 2015. "[Agroecology for Food Security and Nutrition: Proceedings of the FAO International Symposium](http://www.fao.org/family-farming/detail/en/c/342680/)." *International Symposium on Agroecology for Food Security and Nutrition*. Rome, Italy. 426 pp.
 
 ### Nitrogen in Agriculture
 
-- Michael Clark and David Tilman. 2017. "{{% resource_link "58229610-68a2-42bf-81a0-f2c274190234" "Comparative Analysis of Environmental Impacts of Agricultural Production Systems, Agricultural Input Efficiency, and Food Choice" %}}." *Environmental Research Letters.* 12, no. 6: 064016.
-- Kenneth G. Cassman, Achim Dobermann, and Daniel T. Walters. 2002. "{{% resource_link "fee60d93-5016-45a8-bd63-4866a2f6ceb4" "Agroecosystems, Nitrogen-Use Efficiency, and Nitrogen Management" %}}." *AMBIO: A Journal of the Human Environment.* 31, no. 2: 132–140.
-- G. Philip Robertson and Peter M. Vitousek. 2009. "{{% resource_link "b84916fa-714c-4e1f-8adb-481cd4854171" "Nitrogen in Agriculture: Balancing the Cost of an Essential Resource" %}}." *Annual Review of Environment and Resources.* 34, 97–125.
+- Michael Clark and David Tilman. 2017. "[Comparative Analysis of Environmental Impacts of Agricultural Production Systems, Agricultural Input Efficiency, and Food Choice](https://iopscience.iop.org/article/10.1088/1748-9326/aa6cd5/meta)." *Environmental Research Letters.* 12, no. 6: 064016.
+- Kenneth G. Cassman, Achim Dobermann, and Daniel T. Walters. 2002. "[Agroecosystems, Nitrogen-Use Efficiency, and Nitrogen Management](https://pubmed.ncbi.nlm.nih.gov/12078002/)." *AMBIO: A Journal of the Human Environment.* 31, no. 2: 132–140.
+- G. Philip Robertson and Peter M. Vitousek. 2009. "[Nitrogen in Agriculture: Balancing the Cost of an Essential Resource](https://www.annualreviews.org/doi/abs/10.1146/annurev.environ.032108.105046)." *Annual Review of Environment and Resources.* 34, 97–125.
 
 ### Comparison of Agroecological and Conventional Crop Yields
 
-- Verena Seufert, Navin Ramankutty, and Jonathan A. Foley. 2012. "{{% resource_link "e088d07d-c137-40e2-834b-80c3d6ab7f3e" "Comparing the Yields of Organic and Conventional Agriculture" %}}." *Nature*. 485, no. 7397: 229–232.
-- Andreas Fliessbach, Hans-Rudolf Oberholzer, et al. 2007. "{{% resource_link "ded1b32e-f5c8-4124-a967-0b0d1f9418c9" "Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming (PDF)" %}}." *Agriculture, Ecosystems and Environment*. 118, no. 1–4: 273–284.
+- Verena Seufert, Navin Ramankutty, and Jonathan A. Foley. 2012. "[Comparing the Yields of Organic and Conventional Agriculture](https://www.nature.com/articles/nature11069)." *Nature*. 485, no. 7397: 229–232.
+- Andreas Fliessbach, Hans-Rudolf Oberholzer, et al. 2007. "[Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming (PDF)](https://www.sciencedirect.com/science/article/abs/pii/S0167880906001794)." *Agriculture, Ecosystems and Environment*. 118, no. 1–4: 273–284.
 
 ## Discussion Points
 

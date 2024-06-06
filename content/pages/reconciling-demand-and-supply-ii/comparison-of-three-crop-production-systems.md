@@ -84,10 +84,10 @@ A review of these statistics suggest:
 References
 ----------
 
-IFAD International Fund for Agricultural Development. 2010. "{{% resource_link "c38315a9-c573-433f-9ee0-1302a519ec8e" "Rural Poverty Report 2011 - New Realities, New Challenges: New Opportunities for Tomorrow’s Generation" %}}." Annexes 1 and 2. IFAD, Rome
+IFAD International Fund for Agricultural Development. 2010. "[Rural Poverty Report 2011 - New Realities, New Challenges: New Opportunities for Tomorrow’s Generation](https://reliefweb.int/report/world/rural-poverty-report-2011-new-realities-new-challenges-new-opportunities-tomorrows)." Annexes 1 and 2. IFAD, Rome
 
-Sarah K. Lowder, Jakob Skoet, Terri Raney. 2016. "{{% resource_link "993e58e4-a2f4-4466-b23a-2f3785c89088" "The Number, Size, and Distribution of Farms, Smallholder Farms, and Family Farms Worldwide" %}}." _World Development,_ 87, 16–29.
+Sarah K. Lowder, Jakob Skoet, Terri Raney. 2016. "[The Number, Size, and Distribution of Farms, Smallholder Farms, and Family Farms Worldwide](https://www.sciencedirect.com/science/article/pii/S0305750X15002703)." _World Development,_ 87, 16–29.
 
-USDA ERS and NASS. 2012. "{{% resource_link "c4176446-4277-4163-ba35-8b6bf5ed2bbd" "Agricultural Resource Management Survey" %}}." (Accessed 22 July, 2020).
+USDA ERS and NASS. 2012. "[Agricultural Resource Management Survey](https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Ag_Resource_Management/)." (Accessed 22 July, 2020).
 
-Yiyun Wu, Xican Xi, et al. 2018. "{{% resource_link "6dfa3f7e-c1aa-4eac-98a8-fb2e9f59c831" "Policy Distortions, Farm Size, and the Overuse of Agricultural Chemicals in China" %}}." _Proceedings of the National Academy of Sciences_, 115, no. 27: 7010–7015.
+Yiyun Wu, Xican Xi, et al. 2018. "[Policy Distortions, Farm Size, and the Overuse of Agricultural Chemicals in China](https://www.pnas.org/content/115/27/7010)." _Proceedings of the National Academy of Sciences_, 115, no. 27: 7010–7015.

@@ -23,7 +23,7 @@ Required Readings
 
 ### The Pessimistic Viewpoint
 
-*   Paul R. Ehrlich and Anne H. Ehrlich. 2013. "{{% resource_link "f040f1ab-1ddb-456b-9b7a-34123dbb9cca" "Can a Collapse of Global Civilization Be Avoided?" %}}" _Proceedings of the Royal Society B: Biological Sciences_. 280, no. 1754: 20122845.
+*   Paul R. Ehrlich and Anne H. Ehrlich. 2013. "[Can a Collapse of Global Civilization Be Avoided?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574335/)" _Proceedings of the Royal Society B: Biological Sciences_. 280, no. 1754: 20122845.
     
 
 ### The Optimistic Viewpoint
@@ -33,12 +33,12 @@ Required Readings
 
 ### A More Balanced Viewpoint
 
-*   H. Charles J. Godfray, John R. Beddington, et al. 2010. "{{% resource_link "c1073190-0cb5-430c-a91c-e9adb97cd8a5" "Food Security: The Challenge of Feeding 9 Billion People" %}}." _Science_, 327, no. 5967: 812–818.
+*   H. Charles J. Godfray, John R. Beddington, et al. 2010. "[Food Security: The Challenge of Feeding 9 Billion People](https://science.sciencemag.org/content/327/5967/812)." _Science_, 327, no. 5967: 812–818.
     
 
 ### A "Social Focused" Viewpoint
 
-*   Amartya Sen. 1982. "{{% resource_link "58399011-93e9-4474-8e18-6b044e17572c" "The Food Problem: Theory and Policy" %}}." _Third World Quarterly_, 4, no. 3: 447–459.
+*   Amartya Sen. 1982. "[The Food Problem: Theory and Policy](https://www.tandfonline.com/doi/abs/10.1080/01436598208419641)." _Third World Quarterly_, 4, no. 3: 447–459.
     
 
 Optional Reading
@@ -53,12 +53,12 @@ Optional Videos
 
 ### Another Pessimist
 
-*   Jonathan Foley. 2011. "{{% resource_link "92a2ea7d-354b-4f68-8a7d-9c53745f62d5" "The Other Inconvenient Truth: How Agriculture is Changing the Face of Our Planet (YouTube)" %}}." TEDx talk, published on YouTube September 2, 2011.
+*   Jonathan Foley. 2011. "[The Other Inconvenient Truth: How Agriculture is Changing the Face of Our Planet (YouTube)](https://www.youtube.com/watch?v=uJhgGbRA6Hk&t=12s)." TEDx talk, published on YouTube September 2, 2011.
     
 
 ### Another Optimist
 
-*   Hans Rosling. 2013. "{{% resource_link "24f24a31-1973-4ae6-832d-892f8dd517a5" "Don't Panic: The Truth About Population" %}}." Produced by Wingspan Productions and The Open University for the BBC.
+*   Hans Rosling. 2013. "[Don't Panic: The Truth About Population](https://search.alexanderstreet.com/view/work/bibliographic_entity%7Cvideo_work%7C3996909)." Produced by Wingspan Productions and The Open University for the BBC.
     
 
 Discussion Points

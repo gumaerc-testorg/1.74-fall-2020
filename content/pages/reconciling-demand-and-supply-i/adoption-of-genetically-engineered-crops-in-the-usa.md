@@ -19,7 +19,7 @@ This plot shows a dramatic increase in the use of two important genetic engineer
 Figure S12.1: Trends in crop acreage devoted to genetically engineered cotton, maize, and soybeans.  
 Sources: USDA Economic Research Service (2002)
 
-Courtesy of {{% resource_link "e35c6765-f288-4af9-aa8d-bfb07fde0fc7" "USDA Economic Research Service" %}}.
+Courtesy of [USDA Economic Research Service](https://www.ers.usda.gov/).
 
 References:
 -----------
@@ -28,4 +28,4 @@ National Agricultural Statistics Service. Annual Reports for June. 2000–2018.
 
 US Department of Agriculture, Economic Research Service Report AER–810. 2002.
 
-University of Michigan Extension website, "{{% resource_link "8b4f57e2-3701-4ed2-b358-06fd7115aabd" "Why Many Growers Are Quick to Adopt Genetic Modification Technology" %}}." Accessed 14 July 2020.
+University of Michigan Extension website, "[Why Many Growers Are Quick to Adopt Genetic Modification Technology](https://www.canr.msu.edu/news/why-many-growers-are-quick-to-adopt-genetic-modification-technology)." Accessed 14 July 2020.

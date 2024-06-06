@@ -28,22 +28,22 @@ Required Readings
 
 ### Trade and Food Security
 
-*   Paolo D'Odorico, Joel A. Carr, et al. 2014. "{{% resource_link "66557ef4-a7c6-4988-a4fb-f3b7a1c09906" "Feeding Humanity Through Global Food Trade" %}}." _Earth's Future_, 2, no. 9: 458–469.
+*   Paolo D'Odorico, Joel A. Carr, et al. 2014. "[Feeding Humanity Through Global Food Trade](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014EF000250)." _Earth's Future_, 2, no. 9: 458–469.
 
 ### Trade and Virtual Resource Transfers
 
-*   Graham K. MacDonald, Kate A. Brauman, et al. 2015. "{{% resource_link "72ae2c33-a8e5-4604-b3c4-ec2bd6e79a1d" "Rethinking Agricultural Trade Relationships in an Era of Globalization" %}}." _BioScience_, 65, no. 3: 275–289.
+*   Graham K. MacDonald, Kate A. Brauman, et al. 2015. "[Rethinking Agricultural Trade Relationships in an Era of Globalization](https://experts.umn.edu/en/publications/rethinking-agricultural-trade-relationships-in-an-era-of-globaliz)." _BioScience_, 65, no. 3: 275–289.
 
 ### Optimal Allocation of Natural Resources
 
-*   Kyle F. Davis, Maria C. Rulli, et al. 2017. "{{% resource_link "0f8620dd-f6c0-411f-86b8-9a628744201f" "Increased Food Production and Reduced Water Use Through Optimized Crop Distribution" %}}." _Nat. Geosci_. 10, 919–924.
+*   Kyle F. Davis, Maria C. Rulli, et al. 2017. "[Increased Food Production and Reduced Water Use Through Optimized Crop Distribution](https://www.researchgate.net/publication/320884561_Increased_food_production_and_reduced_water_use_through_optimized_crop_distribution)." _Nat. Geosci_. 10, 919–924.
 
 Optional Reading
 ----------------
 
 ### Trade and Virtual Resource Transfers
 
-*   Carole Dalin, Megan Konar, et al. 2012. "{{% resource_link "671c24f3-c10f-4a68-b040-d3766189e2b8" "Evolution of the Global Virtual Water Trade Network" %}}." _Proceedings of the National Academy of Sciences_, 109, no. 16: 5989–5994.
+*   Carole Dalin, Megan Konar, et al. 2012. "[Evolution of the Global Virtual Water Trade Network](https://www.pnas.org/content/109/16/5989)." _Proceedings of the National Academy of Sciences_, 109, no. 16: 5989–5994.
 
 Discussion Points
 -----------------

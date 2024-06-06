@@ -21,7 +21,7 @@ One of the interesting things about the course, and a challenging thing for me a
 
 {{< resource 01f8b3fa-3492-7db2-c228-ca05083536db >}}
 
-An anti-GMO mural. (Courtesy of {{% resource_link "647b2910-06bf-444b-9f05-da22fc1a2a37" "hikinghillman" %}} on Flickr. CC BY-NC)
+An anti-GMO mural. (Courtesy of [hikinghillman](https://flickr.com/photos/hikinghillman/23670619573/in/photolist-C4G7wz-rzvu2o-4yb69n-2hHEFio-f2QTsE-fGcm7J-e7nFHN-e7nBPS-4GAtxZ-GeKyQS-f2AH5P-wCsAQD-f2ADDv-efPbRF-78suDD-78wo1W-eaXqcz-eszkdS-9oPwwK-e7gYxX-SZt8dS-4xYcW9-8RK45d-9DabZz-7HJ8zp-Msu1-BxWsTL-BrygYD-Bry6ni-BxVLvG-B3xSyf-kG8PUz-458Bnc-7EBTTo-kG8P5D-8Tw48e-fQn9Ps-7HCvzh-SZt8k5-YMRRkZ-ShV1hL-kG8eaX-qGWfX8-m7jYQf-B3CEkg-7tFbKi-27hw3kU-2exPe9t-2gnrAHE-2a3ov4a) on Flickr. CC BY-NC)
 
 For example, when it comes to GMOs, the focus of most of the students is, “Will GMOs hurt me? Are they going to cause me to have cancer?” And that's really not the scientific perspective on the issue, because there's almost no evidence that any GMOs are harmful to human health. The problem is what GMOs do to the ecosystem, and what they do to other plants that are not genetically manipulated, and what their unintended consequences may be. Because GMOs are generally designed to help the farmer be more productive, and most GMOs are designed to resist pests. And there have been examples—for example, papayas in Hawaii—where indigenous farmers who were very organic and very against GMOs eventually turned to GMOs because otherwise they would have totally lost their crop to pests.
 
