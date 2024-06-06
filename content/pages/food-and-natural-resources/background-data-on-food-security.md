@@ -33,7 +33,7 @@ Figure S4.3 from FAOSTAT shows the marked differences between conditions in deve
 
 Figure S4.3 Food consumption trends (energy and protein) in different regions (FAOSTAT, 2019)
 
-© {{% resource_link "1817d57b-ecd1-4acc-88a9-f09582e94872" "FAO" %}}. All rights reserved. This content is excluded from our Creative Commons license.  
+© [FAO](http://www.fao.org). All rights reserved. This content is excluded from our Creative Commons license.  
 For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
 Although the global average has been above the UN recommended minimum for some time, the average energy and protein values for the UN’s “least developed country” group have only risen above this threshold since 2000. Figure S4.4 shows that a significant fraction of residents in these countries is still undernourished (FAO, IFAD and WFP, 2014).
@@ -44,7 +44,7 @@ Although the global average has been above the UN recommended minimum for some t
 
 Figure S4.4 Malnutrition trends and distribution (FAO, IFAD and WFP, 2014)
 
-© {{% resource_link "1817d57b-ecd1-4acc-88a9-f09582e94872" "FAO" %}}. All rights reserved. This content is excluded from our Creative Commons license.  
+© [FAO](http://www.fao.org). All rights reserved. This content is excluded from our Creative Commons license.  
 For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
 The chart in the upper left of Figure S4.4 shows an approximate distribution of global energy consumption (in calories), with undernourished, overweight, and obesity percentages indicated. The trend plot in the upper right shows a gradual decline in the absolute numbers and percentage of undernourished people but the number given for 2011 is still above 800 million. The lower chart maps the percentages of undernourished in national populations. It gives estimates of around 30% in much of sub-Saharan Africa. Many of the undernourished in this region are children who suffer long term effects from shortages in critical nutrients.
@@ -61,6 +61,6 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 References:
 -----------
 
-FAO, IFAD and WFP. 2014. {{% resource_link "f1977a77-58e7-43d2-bc54-eb3158da4433" "_The State of Food Insecurity in the World 2014. Strengthening the Enabling Environment for Food Security and Nutrition_ (PDF - 3MB)" %}}. Rome, FAO.
+FAO, IFAD and WFP. 2014. [_The State of Food Insecurity in the World 2014. Strengthening the Enabling Environment for Food Security and Nutrition_ (PDF - 3MB)](http://www.fao.org/3/a-i4030e.pdf). Rome, FAO.
 
-{{% resource_link "cadef323-5dc7-4f2e-92c5-30faf0cb23e6" "Gapminder Tools site" %}}. 2019.
+[Gapminder Tools site](https://www.gapminder.org/tools/#$chart-type=bubbles). 2019.

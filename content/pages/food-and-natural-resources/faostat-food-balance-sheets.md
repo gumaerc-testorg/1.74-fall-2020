@@ -13,11 +13,11 @@ uid: 80a1f194-8379-a7e0-bd28-be96b3fc236d
 
 FAO’s Food Balance Sheets provide helpful information on the supply and utilization of different food products as well as information on per capita energy, protein, and fat consumption. Data from these balance sheets have been used in some of the calculations provided elsewhere in Supporting Information.
 
-The food balance sheets are available at the {{% resource_link "df0031b7-f8c8-4866-af28-f68cb0c20573" "FAOSTAT website" %}} under "Food Balance". There are two versions: "Food Balances (old methodology and population)" for the years 2013 and earlier and "New Food Balances" for years after 2013. The data can be reported as global, regional or national totals by year. They can also be downloaded to a spreadsheet. An example is the excerpt from the 2013 global summary given below. This summary was obtained with the "Report" option in the "Food Balances (old methodology and population)" version. The "Report" option is, unfortunately, not available for years after 2013 but similar tables for these years can be constructed outside of FAOSTAT from downloaded raw data.
+The food balance sheets are available at the [FAOSTAT website](http://www.fao.org/faostat/en/#data) under "Food Balance". There are two versions: "Food Balances (old methodology and population)" for the years 2013 and earlier and "New Food Balances" for years after 2013. The data can be reported as global, regional or national totals by year. They can also be downloaded to a spreadsheet. An example is the excerpt from the 2013 global summary given below. This summary was obtained with the "Report" option in the "Food Balances (old methodology and population)" version. The "Report" option is, unfortunately, not available for years after 2013 but similar tables for these years can be constructed outside of FAOSTAT from downloaded raw data.
 
 {{< resource 4e93ca7a-178f-fc94-d482-958cfbcc9419 >}}
 
-© {{% resource_link "1817d57b-ecd1-4acc-88a9-f09582e94872" "FAO" %}}. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
+© [FAO](http://www.fao.org). All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
 The entries for each crop and group of crops listed in the Food Balance Sheets are organized as follows:
 
