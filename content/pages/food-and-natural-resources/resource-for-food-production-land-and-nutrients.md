@@ -33,18 +33,18 @@ Required Readings
 
 ### Land Use
 
-*   Eric F. Lambin and Patrick Meyfroidt. 2011. "{{% resource_link "36adbeaa-b92a-4037-b055-45456f5a1dab" "Global Land Use Change, Economic Globalization, and the Looming Land Scarcity" %}}." _Proceedings of the National Academy of Sciences_. 108, no. 9: 3465–72.
+*   Eric F. Lambin and Patrick Meyfroidt. 2011. "[Global Land Use Change, Economic Globalization, and the Looming Land Scarcity](https://www.pnas.org/content/108/9/3465)." _Proceedings of the National Academy of Sciences_. 108, no. 9: 3465–72.
     
-    *   {{% resource_link "7e7224df-e63c-471e-a986-6690c167a37d" "Supporting Information (PDF)" %}}
+    *   [Supporting Information (PDF)](http://www.pnas.org/content/suppl/2011/02/07/1100480108.DCSupplemental/pnas.201100480SI.pdf)
 
 ### Identification of Land Suitable for Crops
 
-*   Florian Zabel, Birgitta Putzenlechner, and Wolfram Mauser. 2014. "{{% resource_link "4e49bde5-5d3d-4ee1-93b7-68616733ba67" "Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions" %}}." _PloS One_. 9, no. 9: e107522.
+*   Florian Zabel, Birgitta Putzenlechner, and Wolfram Mauser. 2014. "[Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4167994/)." _PloS One_. 9, no. 9: e107522.
     
 
 ### Biofuels
 
-*   David Tilman, Robert Socolow, et al. 2009. "{{% resource_link "07c8f1fd-4fac-46bd-a6d7-5eeec80a09ac" "Beneficial Biofuels—The Food, Energy, and Environment Trilemma" %}}." _Science_. 325, no. 5938: 270–271.
+*   David Tilman, Robert Socolow, et al. 2009. "[Beneficial Biofuels—The Food, Energy, and Environment Trilemma](https://science.sciencemag.org/content/325/5938/270)." _Science_. 325, no. 5938: 270–271.
     
 
 ### Nutrient Supplies
@@ -57,17 +57,17 @@ Optional Reading
 
 ### Cropland Expansion
 
-*   E.F. Lambin, H.K. Gibbs, et al. 2013. "{{% resource_link "83552680-895c-4074-88b3-5b4df81c6d82" "Estimating the World's Potentially Available Cropland Using a Bottom-Up Approach" %}}." _Global Environmental Change_. 23, no. 5: 892–901.
+*   E.F. Lambin, H.K. Gibbs, et al. 2013. "[Estimating the World's Potentially Available Cropland Using a Bottom-Up Approach](https://www.sciencedirect.com/science/article/pii/S0959378013000794)." _Global Environmental Change_. 23, no. 5: 892–901.
     
 
 ### Land Use Alternatives
 
-*   Joern Fischer, Berry Brosi, et al. 2008. "{{% resource_link "4d5d1ad1-f278-4d14-9cbc-6e41e1687bdb" "Should Agricultural Policies Encourage Land Sparing or Wildlife-Friendly Farming?" %}}" _Frontiers in Ecology and the Environment_. 6, no. 7: 380–385.
+*   Joern Fischer, Berry Brosi, et al. 2008. "[Should Agricultural Policies Encourage Land Sparing or Wildlife-Friendly Farming?](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/070019)" _Frontiers in Ecology and the Environment_. 6, no. 7: 380–385.
     
 
 ### Biofuels
 
-*   Tim Searchinger and Ralph Heimlich. 2015. "{{% resource_link "0c32ec4f-6fdc-4d2d-ac26-e2b61f5e9cf9" "Avoiding Bioenergy Competition for Food Crops and Land" %}}." Working Paper, Installment 9 of _Creating a Sustainable Food Future_. World Resources Institute.
+*   Tim Searchinger and Ralph Heimlich. 2015. "[Avoiding Bioenergy Competition for Food Crops and Land](https://www.wri.org/publication/avoiding-bioenergy-competition-food-crops-and-land)." Working Paper, Installment 9 of _Creating a Sustainable Food Future_. World Resources Institute.
     
 
 ### Crop Suitability

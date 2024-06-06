@@ -38,18 +38,18 @@ A major question that remains after reviewing these readings is whether it shoul
 
 ### Crop Yield Overview
 
-- David B. Lobell, Kenneth G. Cassman, and Christopher B. Field. 2009. "{{% resource_link "e2e7a26d-532b-4722-b448-92d2120cd11f" "Crop Yield Gaps: Their Importance, Magnitudes, and Causes" %}}." _Annual Review of Environment and Resources_. 34: 179–204.
-- Nathaniel D. Mueller, James S. Gerber, et al. 2012. "{{% resource_link "226f8e57-e48d-4d8e-ba3d-d03f1a0005a1" "Closing Yield Gaps Through Nutrient and Water Management" %}}." _Nature._ 490, no. 7419: 254–257.
+- David B. Lobell, Kenneth G. Cassman, and Christopher B. Field. 2009. "[Crop Yield Gaps: Their Importance, Magnitudes, and Causes](https://www.annualreviews.org/doi/abs/10.1146/annurev.environ.041008.093740)." _Annual Review of Environment and Resources_. 34: 179–204.
+- Nathaniel D. Mueller, James S. Gerber, et al. 2012. "[Closing Yield Gaps Through Nutrient and Water Management](https://pubmed.ncbi.nlm.nih.gov/22932270/)." _Nature._ 490, no. 7419: 254–257.
 
 ## Optional Readings
 
 ### Variations in Crop Yield and Yield Gaps
 
-- Rachel Licker, Matt Johnston, et al. 2010. "{{% resource_link "42ee4bda-3b80-4c2b-8cf0-1f95f6bd2f70" "Mind the Gap: How Do Climate and Agricultural Management Explain the ‘Yield Gap’of Croplands Around the World?" %}}" _Global Ecology and Biogeography_. 19, no. 6: 769–782.
+- Rachel Licker, Matt Johnston, et al. 2010. "[Mind the Gap: How Do Climate and Agricultural Management Explain the ‘Yield Gap’of Croplands Around the World?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1466-8238.2010.00563.x)" _Global Ecology and Biogeography_. 19, no. 6: 769–782.
 
 ### Crop Yield Saturation
 
-- Deepak K. Ray, Navin Ramankutty, et al. 2012. "{{% resource_link "120087bd-99fb-401e-b8f7-35b85079eb18" "Recent Patterns of Crop Yield Growth and Stagnation" %}}." _Nature Communications_, 3, no. 1: 1–7.
+- Deepak K. Ray, Navin Ramankutty, et al. 2012. "[Recent Patterns of Crop Yield Growth and Stagnation](https://www.nature.com/articles/ncomms2296)." _Nature Communications_, 3, no. 1: 1–7.
 
 ## Discussion Points
 

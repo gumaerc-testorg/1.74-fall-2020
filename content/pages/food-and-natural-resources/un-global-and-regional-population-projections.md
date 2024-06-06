@@ -22,7 +22,7 @@ These UN population plots are based on historically reported population values b
 Figure S1.1 UN Estimated Population Trends (UN Population Division. 2019)      
 (Click each individual figure to see its bigger version.)
 
-Courtesy {{% resource_link "60ee798c-ff60-480f-a732-d7379129f289" "UN Population Division" %}}. License: CC BY.
+Courtesy [UN Population Division](https://population.un.org/wpp/). License: CC BY.
 
 The global estimates in Figure S1.1 show that the population median peaks around 2100 and the low fertility variant peaks around 2055, after which the population decreases. By contrast, even the low fertility variant in the sub-Saharan Africa plot is still increasing at the end of the century. The sub-Saharan Africa median population increases by a factor of nearly 3.5 between 2020 and 2100, growing from 1.1 to 3.8 billion.
 
@@ -34,7 +34,7 @@ Figure S1.2 shows an estimated global population density map for 2000 (Salvatore
 
 Figure S1.2 Population Density (Salvatore et al., 2005).
 
-© {{% resource_link "1817d57b-ecd1-4acc-88a9-f09582e94872" "FAO" %}}. All rights reserved. This content is excluded from our Creative Commons license.      
+© [FAO](http://www.fao.org). All rights reserved. This content is excluded from our Creative Commons license.      
 For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
 25847661figs13popjpg99471414
@@ -42,7 +42,7 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 Figure S1.3 Fertility rates over three time periods (UN Population Division. 2019).      
 (Click the figure to see a bigger popup image.)
 
-Courtesy {{% resource_link "60ee798c-ff60-480f-a732-d7379129f289" "UN Population Division" %}}. License: CC BY.
+Courtesy [UN Population Division](https://population.un.org/wpp/). License: CC BY.
 
 The maps in Figure S1.3 above show UN fertility rate estimates (in number of children per woman) over two periods in the past and for 2050–2055 (UN Population Division, 2019). The demographic transition that reduced population growth in much of Asia and South America between 1970 and 2015 is apparent. Although African fertility rates also dropped over this period they were still much higher than elsewhere. In some African countries the 2010–2015 average fertility rate was well above 5 children per woman. However, the UN predicts that most countries in Africa will have lower fertility rates by 2050–2055. This suggests that the pressure on African food supplies may gradually become less intense in the second half of the twenty-first century, although the population will still be growing.
 
@@ -58,8 +58,8 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 
 ## References:
 
-UN Population Division. 2019. Department of Economic and Social Affairs, Population Dynamics. {{% resource_link "60ee798c-ff60-480f-a732-d7379129f289" "World Population Prospects 2019" %}}. 
+UN Population Division. 2019. Department of Economic and Social Affairs, Population Dynamics. [World Population Prospects 2019](https://population.un.org/wpp/). 
 
-Mirella Salvatore, Francesca Pozzi, et al. 2005. {{% resource_link "f38e78c0-3a90-451e-aa10-c0b7adf1d942" "_Mapping Global Urban and Rural Population Distributions_" %}}. Environment and Natural Resources Working Paper 24, FAO, Rome, 2005. 
+Mirella Salvatore, Francesca Pozzi, et al. 2005. [_Mapping Global Urban and Rural Population Distributions_](http://www.fao.org/3/a0310e/A0310E00.htm#TOC). Environment and Natural Resources Working Paper 24, FAO, Rome, 2005. 
 
-{{% resource_link "cadef323-5dc7-4f2e-92c5-30faf0cb23e6" "Gapminder Tools site" %}}. 2019.
+[Gapminder Tools site](https://www.gapminder.org/tools/#$chart-type=bubbles). 2019.
