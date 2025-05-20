@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-74-land-water-food-and-climate-fall-2020/4310d412c98328c449ef1f45cc020b22_FigS112nn.jpg
+file: /courses/1-74-land-water-food-and-climate-fall-2020/4310d412c98328c449ef1f45cc020b22_FigS112nn.jpg
 file_size: 303807
 file_type: image/jpeg
 image_metadata:

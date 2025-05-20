@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-74-land-water-food-and-climate-fall-2020/b42f4baafc802bb5ac16b24a3eff73bc_Savannah.png
+file: /courses/1-74-land-water-food-and-climate-fall-2020/b42f4baafc802bb5ac16b24a3eff73bc_Savannah.png
 file_size: 313548
 file_type: image/png
 image_metadata:
