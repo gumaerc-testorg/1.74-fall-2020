@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-74-land-water-food-and-climate-fall-2020/ef41c5759dcd0fb8f6852cf5190f6c09_FoodLoss.png
+file: /courses/1-74-land-water-food-and-climate-fall-2020/ef41c5759dcd0fb8f6852cf5190f6c09_FoodLoss.png
 file_size: 74208
 file_type: image/png
 image_metadata:
