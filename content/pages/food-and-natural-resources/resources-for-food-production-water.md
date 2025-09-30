@@ -28,17 +28,17 @@ Required Readings
 
 ### Human Appropriation of Water
 
-*   Sandra L. Postel, Gretchen C. Daily, and Paul R. Ehrlich. 1996. "[Human Appropriation of Renewable Fresh Water](https://science.sciencemag.org/content/271/5250/785)." _Science_. 271, no. 5250: 785–788.
+*   Sandra L. Postel, Gretchen C. Daily, and Paul R. Ehrlich. 1996. "{{% resource_link "27acb54a-8d95-4ebc-be6a-35abb1a92702" "Human Appropriation of Renewable Fresh Water" %}}." _Science_. 271, no. 5250: 785–788.
     
 
 ### Distribution of Water Resources
 
-*   Lorenzo Rosa, Davide Danilo Chiarelli, et al. 2020. "[Global Agricultural Economic Water Scarcity](https://advances.sciencemag.org/content/6/18/eaaz6031)." _Science Advances_. 6, no. 18: eaaz6031.
+*   Lorenzo Rosa, Davide Danilo Chiarelli, et al. 2020. "{{% resource_link "f27c3bd3-c141-4dae-9396-a348409df02c" "Global Agricultural Economic Water Scarcity" %}}." _Science Advances_. 6, no. 18: eaaz6031.
     
 
 ### Groundwater Depletion
 
-*   Werner Aeschbach-Hertig and Tom Gleeson. 2012. "[Regional Strategies for the Accelerating Global Problem of Groundwater Depletion](https://www.nature.com/articles/ngeo1617)." _Nature Geoscience_. 5: 853–861.
+*   Werner Aeschbach-Hertig and Tom Gleeson. 2012. "{{% resource_link "b32a1bb6-a7a6-49c5-be03-0145b2a7e2a5" "Regional Strategies for the Accelerating Global Problem of Groundwater Depletion" %}}." _Nature Geoscience_. 5: 853–861.
     
 
 Optional Readings
@@ -46,17 +46,17 @@ Optional Readings
 
 ### Water Scarcity
 
-*   Frank Rijsberman, 2006. "[Water Scarcity: Fact or Fiction?](https://www.sciencedirect.com/science/article/abs/pii/S0378377405002854)" _Agricultural Water Management._ 80, no. 1–3: 5–22.
+*   Frank Rijsberman, 2006. "{{% resource_link "a9ac6999-a30a-4693-a914-2d35dca815ca" "Water Scarcity: Fact or Fiction?" %}}" _Agricultural Water Management._ 80, no. 1–3: 5–22.
     
 
 ### Water Storage Trends
 
-*   M. Rodell, J.S. Famiglietti, et al. 2018. "[Emerging Trends in Global Freshwater Availability](https://www.nature.com/articles/s41586-018-0123-1)." _Nature_. 557, no. 7707: 651–659.
+*   M. Rodell, J.S. Famiglietti, et al. 2018. "{{% resource_link "32b0f2da-3869-46cb-8f03-dce166c24550" "Emerging Trends in Global Freshwater Availability" %}}." _Nature_. 557, no. 7707: 651–659.
     
 
 ### Groundwater Depletion
 
-*   Yoshihide Wada, Ludovicus P.H. Van Beek, et al. 2010. "[Global Depletion of Groundwater Resources](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GL044571)." _Geophysical Research Letters._ 37, no. 20.
+*   Yoshihide Wada, Ludovicus P.H. Van Beek, et al. 2010. "{{% resource_link "307992e6-832f-446b-890c-0d3747153455" "Global Depletion of Groundwater Resources" %}}." _Geophysical Research Letters._ 37, no. 20.
     
 
 Discussion Points

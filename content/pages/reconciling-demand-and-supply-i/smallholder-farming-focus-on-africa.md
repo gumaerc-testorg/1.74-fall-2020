@@ -37,28 +37,28 @@ Required Readings
 
 ### Challenges of Smallholder Agriculture in Sub-Saharan Africa
 
-*   T. S. Jayne, D. Mather, and E. Mghenyi, 2010. "[Principal Challenges Confronting Smallholder Agriculture in Sub-Saharan Africa](https://ideas.repec.org/a/eee/wdevel/v38y2010i10p1384-1398.html)." _World Development_, 38, no. 10: 1384–1398.
-*   S. J. Carr. 2001. "[Changes in African Smallholder Agriculture in the Twentieth Century and the Challenges of the Twenty-First](https://www.ajol.info/index.php/acsj/article/view/27655)." _African Crop Science Journal_, 9, no. 1: 331–338.
+*   T. S. Jayne, D. Mather, and E. Mghenyi, 2010. "{{% resource_link "c32b4ff1-8d43-4e5d-a84c-3ff0a5841e9e" "Principal Challenges Confronting Smallholder Agriculture in Sub-Saharan Africa" %}}." _World Development_, 38, no. 10: 1384–1398.
+*   S. J. Carr. 2001. "{{% resource_link "e5b6be18-abee-40d9-8a3b-893560815cad" "Changes in African Smallholder Agriculture in the Twentieth Century and the Challenges of the Twenty-First" %}}." _African Crop Science Journal_, 9, no. 1: 331–338.
 
 ### Smallholder vs. Commercial Agriculture for Sub-Saharan Africa
 
-*   D. F. Larson, R. Muraoka, and K. Otsuka, 2016. "[Why African Rural Development Strategies Must Depend on Small Farms](https://www.researchgate.net/publication/307520014_Why_African_rural_development_strategies_must_depend_on_small_farms)." _Global Food Security_, 10, 39–51.
-*   P. Collier and S. Dercon. 2014. "[African Agriculture in 50 Years: Smallholders in a Rapidly Changing World?](https://ideas.repec.org/a/eee/wdevel/v63y2014icp92-101.html)" _World Development_, 63, 92–101.
+*   D. F. Larson, R. Muraoka, and K. Otsuka, 2016. "{{% resource_link "0b40709f-62da-49bd-a87f-b7c573265805" "Why African Rural Development Strategies Must Depend on Small Farms" %}}." _Global Food Security_, 10, 39–51.
+*   P. Collier and S. Dercon. 2014. "{{% resource_link "ddefc1a1-0cb2-4b25-b25b-f916d259b6da" "African Agriculture in 50 Years: Smallholders in a Rapidly Changing World?" %}}" _World Development_, 63, 92–101.
 
 ### Closing Yield Gaps in Africa
 
-*   M. K. Van Ittersum, L. G. Van Bussel, et al. 2016. "[Can Sub-Saharan Africa Feed Itself?](https://pubmed.ncbi.nlm.nih.gov/27956604/)" _Proceedings of the National Academy of Sciences_, 113, no. 52: 14964–14969.
+*   M. K. Van Ittersum, L. G. Van Bussel, et al. 2016. "{{% resource_link "fd225e8b-c2d8-44f4-8e0c-1485f410b594" "Can Sub-Saharan Africa Feed Itself?" %}}" _Proceedings of the National Academy of Sciences_, 113, no. 52: 14964–14969.
 
 Optional Reading
 ----------------
 
 ### Smallholder Economic Profiles
 
-*   G. Rapsomanikis. 2015. "[The Economic Lives of Smallholder Farmers: An Analysis Based on Household Data from Nine Countries (PDF - 3.6MB)](http://www.fao.org/3/a-i5251e.pdf)." _Food and Agriculture Organization of the United Nations, Rome_.
+*   G. Rapsomanikis. 2015. "{{% resource_link "d3360fba-d7cb-4c4b-a045-ccd5f512d5ca" "The Economic Lives of Smallholder Farmers: An Analysis Based on Household Data from Nine Countries (PDF - 3.6MB)" %}}." _Food and Agriculture Organization of the United Nations, Rome_.
 
 ### Farm Size and Distribution
 
-*   S. K. Lowder, J. Skoet, and T. Raney. 2016. "[The Number, Size, and Distribution of Farms, Smallholder Farms, and Family Farms Worldwide](https://www.sciencedirect.com/science/article/pii/S0305750X15002703)." _World Development_, 87, 16–29.
+*   S. K. Lowder, J. Skoet, and T. Raney. 2016. "{{% resource_link "f7a312e1-c2e9-4632-ab6f-7cf22f0b54b1" "The Number, Size, and Distribution of Farms, Smallholder Farms, and Family Farms Worldwide" %}}." _World Development_, 87, 16–29.
 
 Discussion Points
 -----------------

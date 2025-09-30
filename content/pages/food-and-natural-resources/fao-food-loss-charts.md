@@ -17,7 +17,7 @@ The following charts, based on data from Gustavsson et al. (2011), compare food 
 
 Figure S2.1 FAO estimated food loss and waste by crop type and region (Gustavsson et al., 2011)
 
-© [FAO](http://www.fao.org). All rights reserved. This content is excluded from our Creative Commons license.  
+© {{% resource_link "89bcd953-b29b-43f7-abdd-a6f1e7d2f81c" "FAO" %}}. All rights reserved. This content is excluded from our Creative Commons license.  
 For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
 These estimates indicate that consumption losses are the largest fraction of the total in the developed countries of Europe and North America while pre-consumer production losses are largest in the developing countries of sub-Saharan Africa and South Asia. This probably reflects greater consumer waste in developed countries and poorer storage and transportation in developing countries. In both cases, total losses for cereals are generally over 20%. Vegetables and fruit losses can be much higher than 30%.
@@ -25,6 +25,6 @@ These estimates indicate that consumption losses are the largest fraction of the
 References:
 -----------
 
-Peter Alexander, Calum Brown, et al. 2017. "[Losses, Inefficiencies and Waste in the Global Food System](https://www.sciencedirect.com/science/article/pii/S0308521X16302384)." _Agricultural Systems_, 153, no. 2017: 190–200.
+Peter Alexander, Calum Brown, et al. 2017. "{{% resource_link "c37d8c99-6ee7-4d29-9e32-1ee6783173d6" "Losses, Inefficiencies and Waste in the Global Food System" %}}." _Agricultural Systems_, 153, no. 2017: 190–200.
 
-Jenny Gustavsson, Christel Cederberg, et al. 2011. "[Global Food Losses and Food Waste: Extent, Causes and Prevention](https://reliefweb.int/report/world/global-food-losses-and-food-waste-extent-causes-and-prevention)." Report commissioned by Food and Agriculture Organization (FAO) of the United Nations.
+Jenny Gustavsson, Christel Cederberg, et al. 2011. "{{% resource_link "2074cbb8-9a69-4dc6-9dc9-31643425fe01" "Global Food Losses and Food Waste: Extent, Causes and Prevention" %}}." Report commissioned by Food and Agriculture Organization (FAO) of the United Nations.

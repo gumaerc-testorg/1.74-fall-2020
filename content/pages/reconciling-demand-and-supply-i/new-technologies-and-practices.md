@@ -44,45 +44,45 @@ Required Readings
 
 ### Genetic Engineering and Food Security
 
-*   Pamela Ronald. 2011. "[Plant Genetics, Sustainable Agriculture and Global Food Security](https://pubmed.ncbi.nlm.nih.gov/21546547/)." _Genetics_, 188, no. 1: 11–20.
+*   Pamela Ronald. 2011. "{{% resource_link "578cc088-ecfd-4104-87e9-4fe817002ab1" "Plant Genetics, Sustainable Agriculture and Global Food Security" %}}." _Genetics_, 188, no. 1: 11–20.
 
 ### Ecological Risks of Genetically Engineered Crops
 
-*   L.L. Wolfenbarger and P. R. Phifer. 2000. "[The Ecological Risks and Benefits of Genetically Engineered Plants](https://science.sciencemag.org/content/290/5499/2088)." _Science_, 290, no. 5499: 2088–2093.
-*   Natasha Gilbert. 2013. "[Case Studies: A Hard Look at GM Crops](https://www.nature.com/news/case-studies-a-hard-look-at-gm-crops-1.12907)." _Nature,_ 497, 1 May.
+*   L.L. Wolfenbarger and P. R. Phifer. 2000. "{{% resource_link "7793970f-48dc-41fd-972f-49839b2a1103" "The Ecological Risks and Benefits of Genetically Engineered Plants" %}}." _Science_, 290, no. 5499: 2088–2093.
+*   Natasha Gilbert. 2013. "{{% resource_link "f3fd0107-baf3-474e-990d-f288640a5fc5" "Case Studies: A Hard Look at GM Crops" %}}." _Nature,_ 497, 1 May.
 
 ### Summary Statement on Genetic Engineering
 
-*   US National Academy of Sciences. 2016. _[Genetically Engineered Crops: Experiences And Prospects](https://www.nap.edu/catalog/23395/genetically-engineered-crops-experiences-and-prospects)_, Executive Summary, The National Academies Press, Washington, DC.
+*   US National Academy of Sciences. 2016. _{{% resource_link "67f57d11-c13f-487b-a86f-ece4588e42a5" "Genetically Engineered Crops: Experiences And Prospects" %}}_, Executive Summary, The National Academies Press, Washington, DC.
 
 ### Precision Agriculture
 
-*   Robin Gebbers and Viacheslav I. Adamchuk. 2010. "[Precision Agriculture and Food Security](https://science.sciencemag.org/content/327/5967/828)." _Science_, 327, no. 5967: 828–831.
-*   Robert Bogue. 2017. "[Sensors Key to Advances in Precision Agriculture](https://www.emerald.com/insight/content/doi/10.1108/SR-10-2016-0215/full/html)." _Sensor Review_. Emerald Publishing Limited.
+*   Robin Gebbers and Viacheslav I. Adamchuk. 2010. "{{% resource_link "3b55a7d8-05d5-49a4-9e12-03a8c0d65536" "Precision Agriculture and Food Security" %}}." _Science_, 327, no. 5967: 828–831.
+*   Robert Bogue. 2017. "{{% resource_link "82bc61cf-376f-4214-a476-9ff6e6c328c1" "Sensors Key to Advances in Precision Agriculture" %}}." _Sensor Review_. Emerald Publishing Limited.
 
 Optional Readings
 -----------------
 
 ### Genetic Engineering
 
-*   Robert Paarlberg. 2010. "[GMO Foods and Crops: Africa's Choice](https://pubmed.ncbi.nlm.nih.gov/20637906/)." _New Biotechnology_, 27, no. 5: 609–613.
-*   Kathleen L. Hefferon and Ronald J. Herring. 2017. "[The End of the GMO? Genome Editing, Gene Drives and New Frontiers of Plant Technology](https://ideas.repec.org/a/fas/journl/v7y2017i1p1-32.html)." _Review of Agrarian Studies_, 7, no. 1: 1–32.
-*   Agnès E Ricroch and Marie-Cécile Hénard-Damave. 2016. "[Next Biotech Plants: New Traits, Crops, Developers and Technologies for Addressing Global Challenges](https://pubmed.ncbi.nlm.nih.gov/25641327/)." _Critical Reviews in Biotechnology_, 36, no. 4: 675–690.
+*   Robert Paarlberg. 2010. "{{% resource_link "e61ed13f-d588-466d-b6b1-ea1ca51f195b" "GMO Foods and Crops: Africa's Choice" %}}." _New Biotechnology_, 27, no. 5: 609–613.
+*   Kathleen L. Hefferon and Ronald J. Herring. 2017. "{{% resource_link "5cada93e-3939-45b2-897f-a7143e085a2d" "The End of the GMO? Genome Editing, Gene Drives and New Frontiers of Plant Technology" %}}." _Review of Agrarian Studies_, 7, no. 1: 1–32.
+*   Agnès E Ricroch and Marie-Cécile Hénard-Damave. 2016. "{{% resource_link "4fad8951-fe5f-42b0-ba12-fef8d250727c" "Next Biotech Plants: New Traits, Crops, Developers and Technologies for Addressing Global Challenges" %}}." _Critical Reviews in Biotechnology_, 36, no. 4: 675–690.
 
 Videos
 ------
 
 ### The Case for Genetically Engineered Food
 
-*   Pamela Ronald. "[The Case for Genetically Engineering Our Food](https://www.ted.com/talks/pamela_ronald_the_case_for_engineering_our_food?language=en)." TED talk March 2015, published on YouTube.
+*   Pamela Ronald. "{{% resource_link "e40c82b6-313f-4e85-bb17-2f7624e463f3" "The Case for Genetically Engineering Our Food" %}}." TED talk March 2015, published on YouTube.
 
 ### Genetic Engineering for Drought Resistance
 
-*   Jill Farrant. "[How We Can Make Crops Survive without Water](https://www.ted.com/talks/jill_farrant_how_we_can_make_crops_survive_without_water#t-841575)." TEDGlobal talk December 2015, published on YouTube.
+*   Jill Farrant. "{{% resource_link "c83ec9a5-951b-4a13-9dff-9862d3e382a8" "How We Can Make Crops Survive without Water" %}}." TEDGlobal talk December 2015, published on YouTube.
 
 ### Precision Agriculture Demonstration
 
-*   Millennial Farmer. "[Quick Look at the Climate Corporation’s FieldView](https://www.youtube.com/watch?v=meHAeym_-HY)." (a precision agriculture product), May 11, 2017, published on YouTube.
+*   Millennial Farmer. "{{% resource_link "86eaaa75-3e6e-4e0c-a90c-667e2d3c06c7" "Quick Look at the Climate Corporation’s FieldView" %}}." (a precision agriculture product), May 11, 2017, published on YouTube.
 
 Discussion Points
 -----------------

@@ -19,9 +19,9 @@ The Köppen climate classification scheme gives a general picture of the variabi
 
 {{< resource uuid="fc8240b9-986c-936a-1c5d-7b6f96f0b235" >}}
 
-Figure S8.1 Köppen global climate classification, 1997.Source: [FAO Climate impact on agriculture program](http://www.fao.org/nr/climpag/climate/index_en.asp)
+Figure S8.1 Köppen global climate classification, 1997.Source: {{% resource_link "f3dad181-56a0-4ce8-9fa6-439032b4ceba" "FAO Climate impact on agriculture program" %}}
 
-© [FAO](http://www.fao.org). All rights reserved. This content is excluded from our Creative Commons license.   
+© {{% resource_link "89bcd953-b29b-43f7-abdd-a6f1e7d2f81c" "FAO" %}}. All rights reserved. This content is excluded from our Creative Commons license.   
 For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
 ## Precipitation
@@ -33,9 +33,9 @@ Note the relatively high annual rainfall in temperate mid-latitude areas of Euro
 {{< resource uuid="7d600240-0365-dca2-4b25-56ff5ba51d98" >}}
 
 Figure S8.2 Multi-year average annual total global precipitation.   
-Source: Leemans and Cramer (1991) and [FAO Climate impact on agriculture program](http://www.fao.org/nr/climpag/climate/index_en.asp)
+Source: Leemans and Cramer (1991) and {{% resource_link "f3dad181-56a0-4ce8-9fa6-439032b4ceba" "FAO Climate impact on agriculture program" %}}
 
-© [FAO](http://www.fao.org). All rights reserved. This content is excluded from our Creative Commons license.   
+© {{% resource_link "89bcd953-b29b-43f7-abdd-a6f1e7d2f81c" "FAO" %}}. All rights reserved. This content is excluded from our Creative Commons license.   
 For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
 ### Monthly Precipitation Comparison (seasonality)
@@ -45,9 +45,9 @@ Note the high seasonal variability in the subtropics (India and China, East and 
 {{< resource uuid="36a937bd-4bef-ac5b-a0d9-8a69e7ae666a" >}}
 
 Figure S8.3 Multi-year average monthly total global precipitation for Dec, March, June, and September.   
-Source: Leemans and Cramer (1991) and [FAO Climate impact on agriculture program](http://www.fao.org/nr/climpag/climate/index_en.asp)
+Source: Leemans and Cramer (1991) and {{% resource_link "f3dad181-56a0-4ce8-9fa6-439032b4ceba" "FAO Climate impact on agriculture program" %}}
 
-© [FAO](http://www.fao.org). All rights reserved. This content is excluded from our Creative Commons license.   
+© {{% resource_link "89bcd953-b29b-43f7-abdd-a6f1e7d2f81c" "FAO" %}}. All rights reserved. This content is excluded from our Creative Commons license.   
 For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
 ## Growing Degree Days
@@ -80,7 +80,7 @@ This map superimposes estimated predominantly cropland (green) and grazing land 
 
 Figure S8.6 Global distribution of agricultural land, indicating primarily cropland, primarily grazing land, and a mosaic of both. Source: Adapted from Global Environment Outlook (GEO) and UN Environment Program (UNEP, 2010). Based on data from Ramankutty et al (2008)
 
-Courtesy [UN Environment Program](https://www.grida.no/resources/5531).
+Courtesy {{% resource_link "574eec31-9426-4d1c-b995-a3bf2ecddaf0" "UN Environment Program" %}}.
 
 ## Crop Suitability
 
@@ -111,12 +111,12 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 
 ## References:
 
-R. Leemans and W. Cramer. 1991. [*The IIASA Database for Mean Monthly Values of Temperature, Precipitation and Cloudiness on a Global Terrestrial Grid* (PDF - 3.69MB)](https://epic.awi.de/id/eprint/29861/1/Lee1991a.pdf). Research Report RR-91-18. November 1991. International Institute of Applied Systems Analysis, Laxenburg, pp. 61.
+R. Leemans and W. Cramer. 1991. {{% resource_link "db317951-df8a-40b0-b131-01c3413b86a0" "*The IIASA Database for Mean Monthly Values of Temperature, Precipitation and Cloudiness on a Global Terrestrial Grid* (PDF - 3.69MB)" %}}. Research Report RR-91-18. November 1991. International Institute of Applied Systems Analysis, Laxenburg, pp. 61.
 
-Rachel Licker, Matt Johnston, et al. 2010. "[Mind the Gap: How Do Climate and Agricultural Management Explain the ‘Yield Gap’of Croplands Around the World?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1466-8238.2010.00563.x)" *Global Ecology and Biogeography*, 19, no. 6: 769–782.
+Rachel Licker, Matt Johnston, et al. 2010. "{{% resource_link "495c8f29-2a10-4002-8baa-2d1a21d791dd" "Mind the Gap: How Do Climate and Agricultural Management Explain the ‘Yield Gap’of Croplands Around the World?" %}}" *Global Ecology and Biogeography*, 19, no. 6: 769–782.
 
-Nathan Mueller, James Gerber, et al. 2012. "[Closing Yield Gaps Through Nutrient and Water Management](https://www.nature.com/articles/nature11420)." *Nature*, *490*, no. 7419: 254–257.
+Nathan Mueller, James Gerber, et al. 2012. "{{% resource_link "634ca5fb-8ad8-4b3c-b202-d53c88d53ff2" "Closing Yield Gaps Through Nutrient and Water Management" %}}." *Nature*, *490*, no. 7419: 254–257.
 
-Navin Ramankutty, Amato T. Evan, et al. 2008. "[Farming the Planet: 1. Geographic Distribution of Global Agricultural Lands in the Year 2000](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007GB002952)." *Global Biogeochemical Cycles*, 22, no. 1.
+Navin Ramankutty, Amato T. Evan, et al. 2008. "{{% resource_link "576d8734-3656-4f0b-bb6e-022b5b689a5e" "Farming the Planet: 1. Geographic Distribution of Global Agricultural Lands in the Year 2000" %}}." *Global Biogeochemical Cycles*, 22, no. 1.
 
-Florian Zabel, Birgitta Putzenlechner, and Wolfram Mauser. 2014. "[Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4167994/)." *PloS One*. 9, no. 9.
+Florian Zabel, Birgitta Putzenlechner, and Wolfram Mauser. 2014. "{{% resource_link "dbc2ed6a-19e3-4c62-bbc7-c3453cd88e20" "Global Agricultural Land Resources—A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions" %}}." *PloS One*. 9, no. 9.
