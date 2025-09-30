@@ -37,7 +37,7 @@ None
 
 ### Requirements Satisfied
 
-1.74 can be applied toward a [Master of Science or Doctor of Philosophy](https://cee.mit.edu/graduate/graduate-degree/) degree in Civil and Environmental Engineering, but is not required.
+1.74 can be applied toward a {{% resource_link "ab7094a5-144e-4de4-9a52-be32587f01e2" "Master of Science or Doctor of Philosophy" %}} degree in Civil and Environmental Engineering, but is not required.
 
 ### Offered
 
