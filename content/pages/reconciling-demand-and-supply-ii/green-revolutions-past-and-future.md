@@ -34,22 +34,22 @@ In food security, as in climate change, it seems that the most realistic options
 
 ### Background on the Green Revolution
 
-- Peter B. R. Hazell. 2002. "[_Green Revolution: Curse or Blessing?_ (PDF)](https://oregonstate.edu/instruct/css/330/three/Green.pdf)" No. REP-9450. Washington, DC (USA), IFPRI. 3 p.
+- Peter B. R. Hazell. 2002. "{{% resource_link "c11d2624-e860-4dd5-863a-b3ae0a22129e" "_Green Revolution: Curse or Blessing?_ (PDF)" %}}" No. REP-9450. Washington, DC (USA), IFPRI. 3 p.
 - D. Pimentel and M. Pimentel 1990. "Comment: Adverse Environmental Consequences of the Green Revolution." _Population and Development Review_, 16, 329–332.
 
 ### Possibilities of Further Extending the Green Revolution’s Intensification Approach
 
-- Kenneth G. Cassman. 1999. "[Ecological Intensification of Cereal Production Systems: Yield Potential, Soil Quality, and Precision Agriculture](https://www.pnas.org/content/96/11/5952)." _Proceedings of the National Academy of Sciences_, 96, no. 11: 5952–5959.
+- Kenneth G. Cassman. 1999. "{{% resource_link "d97b794b-ad48-4a1b-acae-0e028d211ba7" "Ecological Intensification of Cereal Production Systems: Yield Potential, Soil Quality, and Precision Agriculture" %}}." _Proceedings of the National Academy of Sciences_, 96, no. 11: 5952–5959.
 
 ## Optional Reading
 
 ### Green Revolution impacts
 
-- Peter B.R. Hazell. 2010. "Asia’s Green Revolution: Past Achievements and Future Challenges." Chapter 1.3 in [_Rice in the Global Economy. Strategic Research and Policy Issues for Food Security_](https://ccacoalition.org/en/resources/rice-global-economy-strategic-research-policy-issues-and-food-security)_._ S. Pandey, D. Byerlee, et al. (Eds). _IRRI_. Manila.
+- Peter B.R. Hazell. 2010. "Asia’s Green Revolution: Past Achievements and Future Challenges." Chapter 1.3 in {{% resource_link "d31bd359-e073-4a54-8d5c-da43a692f226" "_Rice in the Global Economy. Strategic Research and Policy Issues for Food Security_" %}}_._ S. Pandey, D. Byerlee, et al. (Eds). _IRRI_. Manila.
 
 ### Genetic Background for the Green Revolution
 
-- Gurdev S. Khush. 2001. "[Green Revolution: the Way Forward](https://www.nature.com/articles/35093585)." _Nature Reviews Genetics_, 2, no. 10: 815–822.
+- Gurdev S. Khush. 2001. "{{% resource_link "6189e6a8-8ca3-495d-9624-aa5fccb46c50" "Green Revolution: the Way Forward" %}}." _Nature Reviews Genetics_, 2, no. 10: 815–822.
 
 ## Discussion Points
 

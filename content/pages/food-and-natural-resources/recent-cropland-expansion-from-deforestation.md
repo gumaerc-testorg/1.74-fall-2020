@@ -30,7 +30,7 @@ The following charts from Hansen et al. (2013) give estimated annual forest loss
 
 Figure S7.2 Deforestation trends in Indonesia and Brazil (Hansen et al., 2013)
 
-Figures from Hansen et al. 2013. "[High-Resolution Global Maps of 21st-Century Forest Cover Change](https://science.sciencemag.org/content/342/6160/850?ijkey=3a2c3fcb31aca0185473a3debfd3961c8fc22f0e&keytype2=tf_ipsecsha)."  
+Figures from Hansen et al. 2013. "{{% resource_link "95b240eb-8002-49cf-92f0-81e7283d75ff" "High-Resolution Global Maps of 21st-Century Forest Cover Change" %}}."  
 _Science_. 342, no. 6160: 850–853. © AAAS. All rights reserved. This content is excluded from  
 our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
@@ -40,15 +40,15 @@ Deforestation is not confined to the tropics. This image from Hansen et al. (201
 
 Figure S7.3 Images showing loss of forest cover in a) Paraguay, b) Indonesia, c) United States, and d) Russia (Hansen et al., 2013)
 
-Figures from Hansen et al. 2013. "[High-Resolution Global Maps of 21st-Century Forest Cover Change](https://science.sciencemag.org/content/342/6160/850?ijkey=3a2c3fcb31aca0185473a3debfd3961c8fc22f0e&keytype2=tf_ipsecsha)."  
+Figures from Hansen et al. 2013. "{{% resource_link "95b240eb-8002-49cf-92f0-81e7283d75ff" "High-Resolution Global Maps of 21st-Century Forest Cover Change" %}}."  
 _Science_. 342, no. 6160: 850–853. © AAAS. All rights reserved. This content is excluded from  
 our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/).
 
 References:
 -----------
 
-F. Achard, H. D. Eva, et al. 2002. "[Determination of Deforestation Rates of the World's Humid Tropical Forests](https://pubmed.ncbi.nlm.nih.gov/12169731/)." _Science_. 297, no. 5583: 999–1002.
+F. Achard, H. D. Eva, et al. 2002. "{{% resource_link "f4e11da3-56f4-416f-84c7-2f1798091779" "Determination of Deforestation Rates of the World's Humid Tropical Forests" %}}." _Science_. 297, no. 5583: 999–1002.
 
-M. C. Hansen, P. V. Potapov, et al. 2013. "[High-Resolution Global Maps of 21st-Century Forest Cover Change](https://science.sciencemag.org/content/342/6160/850?ijkey=3a2c3fcb31aca0185473a3debfd3961c8fc22f0e&keytype2=tf_ipsecsha)." _Science_. 342, no. 6160: 850–853.
+M. C. Hansen, P. V. Potapov, et al. 2013. "{{% resource_link "95b240eb-8002-49cf-92f0-81e7283d75ff" "High-Resolution Global Maps of 21st-Century Forest Cover Change" %}}." _Science_. 342, no. 6160: 850–853.
 
-Eric F. Lambin, Patrick Meyfroidt. 2011. "[Global Land Use Change, Economic Globalization, and the Looming Land Scarcity](https://www.pnas.org/content/108/9/3465)." _Proceedings of the National Academy of Sciences_. 108, no. 9: 3465–3472.
+Eric F. Lambin, Patrick Meyfroidt. 2011. "{{% resource_link "414a8bcf-a359-4562-8b42-c294a6407be8" "Global Land Use Change, Economic Globalization, and the Looming Land Scarcity" %}}." _Proceedings of the National Academy of Sciences_. 108, no. 9: 3465–3472.

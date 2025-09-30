@@ -35,19 +35,19 @@ Required Readings
 
 ### Sustainable Agriculture
 
-*   David Tilman, Kenneth G. Cassman, et al. 2002. "[Agricultural Sustainability and Intensive Production Practices](https://experts.umn.edu/en/publications/agricultural-sustainability-and-intensive-production-practices)._" Nature._ 418, no. 6898: 671–677.
+*   David Tilman, Kenneth G. Cassman, et al. 2002. "{{% resource_link "62c68b42-5851-4330-ba80-d2fe46b78ec8" "Agricultural Sustainability and Intensive Production Practices" %}}._" Nature._ 418, no. 6898: 671–677.
 
 ### Nitrogen
 
-*   Nicolas Gruber and James N. Galloway. 2008. "[An Earth-System Perspective of the Global Nitrogen Cycle](https://www.semanticscholar.org/paper/An-Earth-system-perspective-of-the-global-nitrogen-Gruber-Galloway/8f54edab9a4473d2facba45f7c35efbaacbf94c7)." _Nature_. 451: 293–296.
+*   Nicolas Gruber and James N. Galloway. 2008. "{{% resource_link "4154fe19-57f6-44b7-aa49-489e1d227390" "An Earth-System Perspective of the Global Nitrogen Cycle" %}}." _Nature_. 451: 293–296.
 
 ### Phosphorus
 
-*   Dana Cordell, Jan-Olof Drangert, and Stuart White. 2009. "[The Story of Phosphorus: Global Food Security and Food for Thought](https://www.sciencedirect.com/science/article/pii/S095937800800099X)." _Global Environmental Change_. 19, no. 2: 292–305.
+*   Dana Cordell, Jan-Olof Drangert, and Stuart White. 2009. "{{% resource_link "49e5677e-e11b-4280-b7ed-d1840c44ef16" "The Story of Phosphorus: Global Food Security and Food for Thought" %}}." _Global Environmental Change_. 19, no. 2: 292–305.
 
 ### Pest Management
 
-*   Montague Yudelman, Annu Ratta, and David Nygaard. 1998. [_Pest Management and Food Production: Looking to the Future_](https://pdfs.semanticscholar.org/de59/b6173c13b448bc936db8ee492762a7e84982.pdf) (Section 4). International Food Policy Research Institute. Washington, DC 20006–1002.
+*   Montague Yudelman, Annu Ratta, and David Nygaard. 1998. {{% resource_link "540ed2b7-d970-4253-bb62-f40c94365467" "_Pest Management and Food Production: Looking to the Future_" %}} (Section 4). International Food Policy Research Institute. Washington, DC 20006–1002.
 *   R. K. Peterson, L. G. Higley, and L. P. Pedigo, 2018. "Whatever happened to IPM?" _American Entomologist._ 64, no. 3: 146–150.
 
 Optional Readings
@@ -55,25 +55,25 @@ Optional Readings
 
 ### Sustainable Agriculture
 
-*   P. A. Matson, W. J. Parton, et al. 1997. "[Agricultural Intensification and Ecosystem Properties](https://science.sciencemag.org/content/277/5325/504.full)." _Science._ 277, no. 5325: 504–509.
+*   P. A. Matson, W. J. Parton, et al. 1997. "{{% resource_link "bdbfd11a-dfc3-4033-bd9d-eeff06dda62a" "Agricultural Intensification and Ecosystem Properties" %}}." _Science._ 277, no. 5325: 504–509.
 
 ### Human Impacts on Ecosystems
 
-*   Peter M. Vitousek, Harold A. Mooney, et al. 1997. "[Human Domination of Earth's Ecosystems](https://science.sciencemag.org/content/277/5325/494.abstract)." _Science._ 277, no. 5325: 494–499.
+*   Peter M. Vitousek, Harold A. Mooney, et al. 1997. "{{% resource_link "34cc1bbc-939d-4a34-abe0-5fe2b484e311" "Human Domination of Earth's Ecosystems" %}}." _Science._ 277, no. 5325: 494–499.
 
 ### Nitrogen
 
-*   Vaclav Smil. 1997. "[Global Population and the Nitrogen Cycle](https://www.scientificamerican.com/article/global-population-and-the-nitrogen/)." _Scientific American._ 277, no. 1: 76–81.
-*   Vaclav Smil. 1999. "[Nitrogen in Crop Production: An Account of Global Flows (PDF)](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999GB900015)." _Global biogeochemical cycles._ 13, no. 2: 647–662.
-*   James N. Galloway and Ellis B. Cowling. 2002. "[Reactive Nitrogen and the World: 200 Years of Change](https://www.researchgate.net/publication/11297112_Reactive_Nitrogen_and_The_World_200_Years_of_Change)." _AMBIO: A Journal of the Human Environment._ 31, no. 2: 64–71.
+*   Vaclav Smil. 1997. "{{% resource_link "f8191d72-f2a3-4d8d-8294-08ae8312ab74" "Global Population and the Nitrogen Cycle" %}}." _Scientific American._ 277, no. 1: 76–81.
+*   Vaclav Smil. 1999. "{{% resource_link "75155235-7a64-4079-9f17-983cce5d53b6" "Nitrogen in Crop Production: An Account of Global Flows (PDF)" %}}." _Global biogeochemical cycles._ 13, no. 2: 647–662.
+*   James N. Galloway and Ellis B. Cowling. 2002. "{{% resource_link "fcdcbba7-7b45-4b70-baef-fc83ed910659" "Reactive Nitrogen and the World: 200 Years of Change" %}}." _AMBIO: A Journal of the Human Environment._ 31, no. 2: 64–71.
 
 ### Phosphorus
 
-*   Daniel L. Childers, Jessica Corman, et al. 2011. "[Sustainability Challenges of Phosphorus and Food: Solutions from Closing the Human Phosphorus Cycle](https://academic.oup.com/bioscience/article/61/2/117/242667)." _BioScience_. 61, no. 2: 117–124.
+*   Daniel L. Childers, Jessica Corman, et al. 2011. "{{% resource_link "e4ed4b90-3704-4001-86af-46c494eda037" "Sustainability Challenges of Phosphorus and Food: Solutions from Closing the Human Phosphorus Cycle" %}}." _BioScience_. 61, no. 2: 117–124.
 
 ### Soil Properties
 
-*   Ann McCauley, Clain Jones, and Jeff Jacobsen. 2005. "[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
+*   Ann McCauley, Clain Jones, and Jeff Jacobsen. 2005. "{{% resource_link "dba2088c-6087-4f1e-95ed-4cc371f170b2" "Basic Soil Properties (PDF)" %}}." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
 
 Discussion Points
 -----------------
