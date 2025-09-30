@@ -56,12 +56,12 @@ Based on Postel (1996), Rost (2008), and FAO (2014).
 
 ## References:
 
-FAOSTAT  [http://www.fao.org/faostat/en/#data](http://www.fao.org/faostat/en/#data), accessed 2019.
+FAOSTAT  {{% resource_link "faffcd15-ab8b-4fb9-985a-9b2ed8d65675" "http://www.fao.org/faostat/en/#data" %}}, accessed 2019.
 
-Sandra L. Postel, Gretchen C. Daily, and Paul R. Ehrlich. 1996. "[Human Appropriation of Renewable Fresh Water](https://science.sciencemag.org/content/271/5250/785)." *Science*. 271, no. 5250: 785–788.
+Sandra L. Postel, Gretchen C. Daily, and Paul R. Ehrlich. 1996. "{{% resource_link "27acb54a-8d95-4ebc-be6a-35abb1a92702" "Human Appropriation of Renewable Fresh Water" %}}." *Science*. 271, no. 5250: 785–788.
 
-Lorenzo Rosa, Davide Danilo Chiarelli, et al. 2020. "[Global Agricultural Economic Water Scarcity](https://advances.sciencemag.org/content/6/18/eaaz6031)." *Science Advances*. 6, no. 18: eaaz6031.
+Lorenzo Rosa, Davide Danilo Chiarelli, et al. 2020. "{{% resource_link "f27c3bd3-c141-4dae-9396-a348409df02c" "Global Agricultural Economic Water Scarcity" %}}." *Science Advances*. 6, no. 18: eaaz6031.
 
-S. Rost, Dieter Gerten, et al. 2008. "[Agricultural Green and Blue Water Consumption and Its Influence on the Global Water System](https://www.semanticscholar.org/paper/Agricultural-green-and-blue-water-consumption-and-Rost-Gerten/2a4f0a766813cb6a6640931554d5e5da0da93919)." *Water Resources Research*, 44, no. 9.
+S. Rost, Dieter Gerten, et al. 2008. "{{% resource_link "7b42c15e-3801-48de-a3cf-a98f5bb102e4" "Agricultural Green and Blue Water Consumption and Its Influence on the Global Water System" %}}." *Water Resources Research*, 44, no. 9.
 
-Kevin E. Trenberth, Lesley Smith, et al. 2007. "[Estimates of the Global Water Budget and Its Annual Cycle Using Observational and Model Data](https://journals.ametsoc.org/view/journals/hydr/8/4/jhm600_1.xml)." *Journal of Hydrometeorology*, 8, no. 4: 758–769.
+Kevin E. Trenberth, Lesley Smith, et al. 2007. "{{% resource_link "6523a4c7-8b1f-4cb3-8861-b9ae08852893" "Estimates of the Global Water Budget and Its Annual Cycle Using Observational and Model Data" %}}." *Journal of Hydrometeorology*, 8, no. 4: 758–769.
